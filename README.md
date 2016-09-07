@@ -23,6 +23,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Video Courses
 
+* [Mastering .NET Performance Tuning](https://wintellectnow.com/Home/SeriesDetail?seriesId=mastering-dotnet-performance-tuning) by John Robbins
+* [Using Threads Effectively to Build Scalable, Responsive, and Fast .NET Applications and Components](https://wintellectnow.com/Home/SeriesDetail?seriesId=using-threads-effectively-to-build-scalable-responsive-and-fast-dotnet-applications-and-components) by Jeffrey Richter
+* [Making .NET Applications Faster](https://www.pluralsight.com/courses/making-dotnet-applications-faster) by Sasha Goldshtein
+* [Making .NET Applications Even Faster](https://www.pluralsight.com/courses/making-dotnet-applications-even-faster) by Sasha Goldshtein
+* [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance) by Sasha Goldshtein
+* [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
+* [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
+
+
 ## On-Site Trainings
 
 ## Conference talks
