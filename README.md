@@ -59,3 +59,12 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
 
 ## Inspiring Open Source Contributors
+
+* [Ben Adams](https://github.com/benaadams)
+* [Jan Kotas](https://github.com/jkotas)
+* [Stephen Toub](https://github.com/stephentoub)
+* [omariom](https://github.com/omariom)
+* [James Ko](https://github.com/jamesqo)
+* [mikedn](https://github.com/mikedn)
+* [Justin Van Patten](https://github.com/justinvp)
+* [nietras](https://github.com/nietras)
