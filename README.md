@@ -43,6 +43,19 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Conference talks
 
+* [Safe Systems Programming in C# and .NET](https://www.infoq.com/presentations/csharp-systems-programming) by Joe Duffy
+* [Performance Optimizations in the Wild](https://vimeo.com/171927596) by Oren Eini (Ayende)
+* [Lessons in Extreme .NET Performance](https://www.infoq.com/presentations/bing-net-performance) by Ben Watson
+* [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren
+* [Making .NET applications faster](https://www.youtube.com/watch?v=jz3SvJhdtEw) by Sasha Goldshtein
+* [The Vector in Your CPU: Exploiting SIMD for Superscalar Performance](https://www.youtube.com/watch?v=WeJ8b3WRSmM) by Sasha Goldshtein
+
 ## Blogs
+
+* [Matt Warren](http://mattwarren.org)
+* [Andrey Akinshin](http://aakinshin.net)
+* [Oren Eini aka Ayende](https://ayende.com/blog)
+* [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
+* [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
 
 ## Inspiring Open Source Contributors
