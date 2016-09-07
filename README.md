@@ -31,8 +31,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
 * [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
 
-
 ## On-Site Trainings
+
+* [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA
+* [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA
+* [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA
+* [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA
+* [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge
+* [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect
+* [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect
 
 ## Conference talks
 
