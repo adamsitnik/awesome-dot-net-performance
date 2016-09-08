@@ -72,9 +72,11 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Justin Van Patten](https://github.com/justinvp)
 * [nietras](https://github.com/nietras)
 
-## High Performance Libraries
-
+## Performance measurement 
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
+* [NBench](https://github.com/petabridge/NBench)
+
+## High Performance Libraries
 * [MathNet](http://www.mathdotnet.com/)
 * [Nessos Streams](https://github.com/nessos/Streams)
 * [SIMD Array](https://github.com/jackmott/SIMDArray)
