@@ -77,3 +77,4 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [MathNet](http://www.mathdotnet.com/)
 * [Nessos Streams](https://github.com/nessos/Streams)
 * [SIMD Array](https://github.com/jackmott/SIMDArray)
+* [markdig](https://github.com/lunet-io/markdig)
