@@ -78,3 +78,4 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Nessos Streams](https://github.com/nessos/Streams)
 * [SIMD Array](https://github.com/jackmott/SIMDArray)
 * [markdig](https://github.com/lunet-io/markdig)
+* [Wire](https://github.com/AsynkronIT/Wire)
