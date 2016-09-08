@@ -8,6 +8,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Conference Talks](#conference-talks)
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
+	- [High Performance Libraries](#high-performance-libraries)
 
 ## Books
 
@@ -57,6 +58,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Oren Eini aka Ayende](https://ayende.com/blog)
 * [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
+* [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
 
 ## Inspiring Open Source Contributors
 
@@ -68,3 +70,10 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [mikedn](https://github.com/mikedn)
 * [Justin Van Patten](https://github.com/justinvp)
 * [nietras](https://github.com/nietras)
+
+## High Performance Libraries
+
+* [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
+* [MathNet](http://www.mathdotnet.com/)
+* [Nessos Streams](https://github.com/nessos/Streams)
+* [SIMD Array](https://github.com/jackmott/SIMDArray)
