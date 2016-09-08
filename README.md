@@ -57,6 +57,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Oren Eini aka Ayende](https://ayende.com/blog)
 * [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
+* [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
 
 ## Inspiring Open Source Contributors
 
