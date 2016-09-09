@@ -84,3 +84,4 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [markdig](https://github.com/lunet-io/markdig)
 * [Wire](https://github.com/AsynkronIT/Wire)
 * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net)
+* [SimpleInjector](https://github.com/simpleinjector/SimpleInjector)
