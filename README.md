@@ -8,6 +8,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Conference Talks](#conference-talks)
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
+	- [Performance measurement](#performance-measurement)
 	- [High Performance Libraries](#high-performance-libraries)
 
 ## Books
@@ -35,13 +36,13 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## On-Site Trainings
 
-* [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA
-* [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA
-* [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA
-* [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA
-* [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge
-* [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect
-* [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect
+* [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA (Israel)
+* [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA (Israel)
+* [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA (Israel)
+* [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA (Israel)
+* [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
+* [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
+* [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
 
 ## Conference talks
 
@@ -75,15 +76,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Federico Andres Lois](https://github.com/redknightlois)
 
 ## Performance measurement 
-* [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
-* [NBench](https://github.com/petabridge/NBench)
-* [xunit.performance](https://github.com/Microsoft/xunit-performance)
+* [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+* [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
+* [xunit.performance](https://github.com/Microsoft/xunit-performance) - Provides extensions over xUnit to author performance tests.
 
 ## High Performance Libraries
-* [MathNet](http://www.mathdotnet.com/)
-* [Nessos Streams](https://github.com/nessos/Streams)
-* [SIMD Array](https://github.com/jackmott/SIMDArray)
-* [markdig](https://github.com/lunet-io/markdig)
-* [Wire](https://github.com/AsynkronIT/Wire)
-* [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net)
-* [SimpleInjector](https://github.com/simpleinjector/SimpleInjector)
+* [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers.
+* [Nessos Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+* [SIMD Array](https://github.com/jackmott/SIMDArray) - SIMD and other Performance enhanced Array operations for F#.
+* [markdig](https://github.com/lunet-io/markdig) - Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+* [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
+* [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
+* [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
