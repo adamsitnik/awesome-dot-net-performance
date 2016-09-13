@@ -71,6 +71,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [mikedn](https://github.com/mikedn)
 * [Justin Van Patten](https://github.com/justinvp)
 * [nietras](https://github.com/nietras)
+* [Vladimir Sadov](https://github.com/VSadov)
+* [Federico Andres Lois](https://github.com/redknightlois)
 
 ## Performance measurement 
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
