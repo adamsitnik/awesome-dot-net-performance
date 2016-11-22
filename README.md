@@ -89,3 +89,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
 * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
+
+## Article series
+
+### Benchmarking
+* [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
+* [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
+* [Micro-Benchmarking Done Wrong, And For The Wrong Reasons](http://blogs.microsoft.co.il/sasha/2012/06/22/micro-benchmarking-done-wrong-and-for-the-wrong-reasons/) by Sasha Goldshtein
+* [Stopwatch under the hood](http://aakinshin.net/en/blog/dotnet/stopwatch/) by Andrey Akinshin
+* [DateTime under the hood](http://aakinshin.net/en/blog/dotnet/datetime/) by Andrey Akinshin
+* [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
+* [Simple microbenchmarking in C#](http://www.yoda.arachsys.com/csharp/benchmark.html) by Jon Skeet
+* [Acquiring high-resolution time stamps](https://msdn.microsoft.com/library/windows/desktop/dn553408.aspx)
