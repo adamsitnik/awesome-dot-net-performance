@@ -63,6 +63,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
 * [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
+* [Scott Hanselman](https://www.hanselman.com/)
 
 ## Inspiring Open Source Contributors
 
