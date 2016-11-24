@@ -12,6 +12,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [High Performance Libraries](#high-performance-libraries)
 	- Article series
 		- [Benchmarking](#benchmarking)
+		- [JIT Optimizations](#jit-optimizations)
 
 ## Books
 
@@ -103,3 +104,25 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
 * [Simple microbenchmarking in C#](http://www.yoda.arachsys.com/csharp/benchmark.html) by Jon Skeet
 * [Acquiring high-resolution time stamps](https://msdn.microsoft.com/library/windows/desktop/dn553408.aspx)
+* [On ‘stackalloc’ Performance and The Large Object Heap](http://blogs.microsoft.co.il/sasha/2013/10/17/on-stackalloc-performance-and-the-large-object-heap/) by Sasha Goldshtein
+* [Micro-Benchmarking Considered Harmful](http://blogs.microsoft.co.il/sasha/2009/05/08/micro-benchmarking-considered-harmful/) by Sasha Goldshtein
+* [On Measuring Performance](http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
+
+### JIT Optimizations
+* [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
+* [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
+* [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 2 of N)](http://blogs.microsoft.co.il/sasha/2007/08/12/jit-optimizations-inlining-and-interface-method-dispatching-part-2-of-n/) by Sasha Goldshtein
+* [Performance differences between debug and release builds](http://stackoverflow.com/questions/4043821/performance-differences-between-debug-and-release-builds/4045073#4045073) by Hans Passant
+* [Aggressive Inlining in the CLR 4.5 JIT](http://blogs.microsoft.co.il/sasha/2012/01/20/aggressive-inlining-in-the-clr-45-jit/) by Sasha Goldshtein
+* [Jit Optimizations: Inlining (I)](https://blogs.msdn.microsoft.com/davidnotario/2004/10/28/jit-optimizations-inlining-i/) by David Notario
+* [Jit Optimizations: Inlining (II)](https://blogs.msdn.microsoft.com/davidnotario/2004/11/01/jit-optimizations-inlining-ii/) by David Notario
+* [More on inlining…](https://blogs.msdn.microsoft.com/ericgu/2004/01/29/more-on-inlining/) by Eric Gunnerson
+* [To Inline or not to Inline: That is the question](https://blogs.msdn.microsoft.com/vancem/2008/08/19/to-inline-or-not-to-inline-that-is-the-question/) by Vance Morrison
+* [Some Notes on Using Machine Learning to Develop Inlining Heuristics](https://github.com/AndyAyersMS/PerformanceExplorer/blob/master/notes/notes-aug-2016.md) by Andy Ayers
+* [The JIT does dead-code elimination in Debuggable code](http://blogs.msdn.com/b/jmstall/archive/2006/03/13/dead-code-elimination.aspx) by Mkie Stall
+* [Does the JIT take advantage of my CPU?](https://blogs.msdn.microsoft.com/davidnotario/2005/08/15/does-the-jit-take-advantage-of-my-cpu/) by David Notario
+* [Unrolling of small loops in different JIT versions](http://aakinshin.net/en/blog/dotnet/unrolling-of-small-loops-in-different-jit-versions/) by Andrey Akinshin
+* [RyuJIT CTP5 and loop unrolling](http://aakinshin.net/en/blog/dotnet/ryujit-ctp5-and-loop-unrolling/) by Andrey Akinshin
+* [RyuJIT RC and constant folding](http://aakinshin.net/en/blog/dotnet/ryujit-rc-and-constant-folding/) by Andrey Akinshin
+* [A story about JIT-x86 inlining and starg](http://aakinshin.net/en/blog/dotnet/inlining-and-starg/) by Andrey Akinshin
+* [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
