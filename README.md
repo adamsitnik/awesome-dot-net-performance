@@ -13,6 +13,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- Article series
 		- [Benchmarking](#benchmarking)
 		- [JIT Optimizations](#jit-optimizations)
+		- [Refs](#refs)		
 
 ## Books
 
@@ -64,6 +65,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
 * [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
+* [Vladimir Sadov](http://mustoverride.com/)
 
 ## Inspiring Open Source Contributors
 
@@ -126,3 +128,10 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [RyuJIT RC and constant folding](http://aakinshin.net/en/blog/dotnet/ryujit-rc-and-constant-folding/) by Andrey Akinshin
 * [A story about JIT-x86 inlining and starg](http://aakinshin.net/en/blog/dotnet/inlining-and-starg/) by Andrey Akinshin
 * [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
+
+### Refs
+* [ref returns are not pointers](http://mustoverride.com/refs-not-ptrs/) by Vladimir Sadov
+* [managed pointers](http://mustoverride.com/managed-refs-CLR/) by Vladimir Sadov
+* [Local variables cannot be returned by reference](http://mustoverride.com/ref-returns-and-locals/) by Vladimir Sadov
+* [Safe to return rules for ref returns](http://mustoverride.com/safe-to-return/) by Vladimir Sadov
+* [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/) by Vladimir Sadov
