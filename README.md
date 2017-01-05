@@ -85,6 +85,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
 * [xunit.performance](https://github.com/Microsoft/xunit-performance) - Provides extensions over xUnit to author performance tests.
 * [Prefix](http://stackify.com/prefix) - Free lightweight profiler for ASP.NET apps shows everything your code is doing across 30+ common libraries
+* [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
 
 ## High Performance Libraries
 * [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers.
