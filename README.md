@@ -56,6 +56,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren
 * [Making .NET applications faster](https://www.youtube.com/watch?v=jz3SvJhdtEw) by Sasha Goldshtein
 * [The Vector in Your CPU: Exploiting SIMD for Superscalar Performance](https://www.youtube.com/watch?v=WeJ8b3WRSmM) by Sasha Goldshtein
+* [The zen of async: Best practices for best performance](https://channel9.msdn.com/Events/Build/BUILD2011/TOOL-829T) by Stephen Toub
 
 ## Blogs
 
@@ -110,6 +111,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [On ‘stackalloc’ Performance and The Large Object Heap](http://blogs.microsoft.co.il/sasha/2013/10/17/on-stackalloc-performance-and-the-large-object-heap/) by Sasha Goldshtein
 * [Micro-Benchmarking Considered Harmful](http://blogs.microsoft.co.il/sasha/2009/05/08/micro-benchmarking-considered-harmful/) by Sasha Goldshtein
 * [On Measuring Performance](http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
+* [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
+* [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
 
 ### JIT Optimizations
 * [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
