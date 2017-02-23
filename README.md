@@ -132,6 +132,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [RyuJIT RC and constant folding](http://aakinshin.net/en/blog/dotnet/ryujit-rc-and-constant-folding/) by Andrey Akinshin
 * [A story about JIT-x86 inlining and starg](http://aakinshin.net/en/blog/dotnet/inlining-and-starg/) by Andrey Akinshin
 * [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
+* [Do PDB Files Affect Performance?](http://devcenter.wintellect.com/jrobbins/do-pdb-files-affect-performance) by John Robbins
+* [What does the optimize switch do?](https://blogs.msdn.microsoft.com/ericlippert/2009/06/11/what-does-the-optimize-switch-do/) by Eric Lippert
 
 ### Refs
 * [ref returns are not pointers](http://mustoverride.com/refs-not-ptrs/) by Vladimir Sadov
