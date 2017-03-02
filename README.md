@@ -96,6 +96,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
 * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
+* [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET
+* [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET
 
 ## Article series
 
