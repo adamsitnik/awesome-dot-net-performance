@@ -14,6 +14,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 		- [Benchmarking](#benchmarking)
 		- [JIT Optimizations](#jit-optimizations)
 		- [Refs](#refs)		
+		- [Threading](#threading)
 
 ## Books
 
@@ -143,3 +144,6 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Local variables cannot be returned by reference](http://mustoverride.com/ref-returns-and-locals/) by Vladimir Sadov
 * [Safe to return rules for ref returns](http://mustoverride.com/safe-to-return/) by Vladimir Sadov
 * [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/) by Vladimir Sadov
+
+### Threading
+* [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
