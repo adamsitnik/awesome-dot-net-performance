@@ -53,6 +53,12 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 
+* [Squeezing the Hardware to Make Performance Juice](https://www.youtube.com/watch?v=5jKLVGI3B4g) by Sasha Goldshtein (2017.03.17, DotNext)
+* [Performance tuning Stack Overflow tags](https://www.youtube.com/watch?v=bd5WYql5vlg) by Marco Cecconi (2017.03.17, DotNext)
+* [Multithreading Deep Dive](https://www.youtube.com/watch?v=z2QYa2RW9c8) by Gael Fraiteur (2017.03.17, DotNext)
+* [Stack Overflow — It's all about performance!](https://www.youtube.com/watch?v=9_pluQPfbBk) by Marco Cecconi (2017.03.17, DotNext)
+* [ETW — Monitor Anything, Anytime, Anywhere](https://www.youtube.com/watch?v=s213p-zB7G4) by Dina Goldshtein (2017.03.17, DotNext)
+* [Exceptional Exceptions in .NET](https://youtu.be/U92Ts53win4?t=1786) by Adam Sitnik (2017.03.17, DotNext)
 * [Safe Systems Programming in C# and .NET](https://www.infoq.com/presentations/csharp-systems-programming) by Joe Duffy (2016.08.20, QCon)
 * [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren (2016.07.28, ProgSCon)
 * [Performance Optimizations in the Wild](https://vimeo.com/171927596) by Oren Eini (Ayende) (2016.06.23, NDC)
