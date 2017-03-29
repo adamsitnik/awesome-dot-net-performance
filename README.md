@@ -154,6 +154,8 @@ Sorted from newest to oldest:
 * [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
 * [Do PDB Files Affect Performance?](http://devcenter.wintellect.com/jrobbins/do-pdb-files-affect-performance) by John Robbins
 * [What does the optimize switch do?](https://blogs.msdn.microsoft.com/ericlippert/2009/06/11/what-does-the-optimize-switch-do/) by Eric Lippert
+* [Hoisting in .NET Explained (part 1)](https://alexandrnikitin.github.io/blog/hoisting-in-net-explained/) by Alexandr Nikitin 
+* [Hoisting in .NET Examples (part 2)](https://alexandrnikitin.github.io/blog/hoisting-in-net-examples/) by Alexandr Nikitin
 
 ### Refs
 * [ref returns are not pointers](http://mustoverride.com/refs-not-ptrs/) by Vladimir Sadov
