@@ -112,10 +112,11 @@ Sorted from newest to oldest:
 * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
 * [DryIoc](https://bitbucket.org/dadhi/dryioc/overview) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
-* [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET
-* [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET
+* [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET.
+* [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET.
 * [ImTools](https://github.com/dadhi/ImTools) - Immutable persistent collections and helpers designed for [performance](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4) and simplicity of use.
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
+* [Spreads](https://github.com/Spreads/Spreads) - "Series and Panels for Real-time and Exploratory Analysis of Data Streams", a library for fast time series incremental calculations + SIMD-optimized byte-shuffling/LZ4/Zstd compression using [Blosc](https://github.com/Blosc/c-blosc/) library.
 
 ## Article series
 
