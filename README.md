@@ -53,6 +53,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2017
+	* [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
 	* [Look Mommy, No GC!](https://www.youtube.com/watch?v=G49baWvzCOI) by Dina Goldshtein (2017.03.23, NDC)
 	* [Squeezing the Hardware to Make Performance Juice](https://www.youtube.com/watch?v=5jKLVGI3B4g) by Sasha Goldshtein (2017.03.17, DotNext)
 	* [Performance tuning Stack Overflow tags](https://www.youtube.com/watch?v=bd5WYql5vlg) by Marco Cecconi (2017.03.17, DotNext)
@@ -82,6 +83,7 @@ Sorted from newest to oldest:
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
 * [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
 * [Vladimir Sadov](http://mustoverride.com/)
+* [Adam Sitnik](http://adamsitnik.com)
 
 ## Inspiring Open Source Contributors
 
@@ -134,8 +136,10 @@ Sorted from newest to oldest:
 * [On Measuring Performance](http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
 * [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
 * [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
+* [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
 
 ### JIT Optimizations
+* [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
 * [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
 * [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
 * [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 2 of N)](http://blogs.microsoft.co.il/sasha/2007/08/12/jit-optimizations-inlining-and-interface-method-dispatching-part-2-of-n/) by Sasha Goldshtein
@@ -164,6 +168,12 @@ Sorted from newest to oldest:
 * [Local variables cannot be returned by reference](http://mustoverride.com/ref-returns-and-locals/) by Vladimir Sadov
 * [Safe to return rules for ref returns](http://mustoverride.com/safe-to-return/) by Vladimir Sadov
 * [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/) by Vladimir Sadov
+* [ref returns and locals](http://adamsitnik.com/ref-returns-and-ref-locals/) by Adam Sitnik
 
 ### Threading
 * [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
+
+### Memory
+* [Pooling large arrays with ArrayPool](http://adamsitnik.com/Array-Pool/) by Adam Sitnik
+* [Value Types vs Reference Types](http://adamsitnik.com/Value-Types-vs-Reference-Types/) by Adam Sitnik
+* [Span](http://adamsitnik.com/Span/) by Adam Sitnik
