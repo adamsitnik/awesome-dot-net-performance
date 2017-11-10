@@ -119,6 +119,7 @@ Sorted from newest to oldest:
 * [ImTools](https://github.com/dadhi/ImTools) - Immutable persistent collections and helpers designed for [performance](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4) and simplicity of use.
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
 * [Spreads](https://github.com/Spreads/Spreads) - "Series and Panels for Real-time and Exploratory Analysis of Data Streams", a library for fast time series incremental calculations + SIMD-optimized byte-shuffling/LZ4/Zstd compression using [Blosc](https://github.com/Blosc/c-blosc/) library.
+* [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast Expression Compiler is ~20 times faster than `Expression.Compile()`.
 
 ## Article series
 
