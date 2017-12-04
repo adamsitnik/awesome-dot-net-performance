@@ -53,6 +53,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2017
+	* [What's new for performance in .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk) by Ben Adams (2017.11.09, CORESTART 2.0)
 	* [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
 	* [Look Mommy, No GC!](https://www.youtube.com/watch?v=G49baWvzCOI) by Dina Goldshtein (2017.03.23, NDC)
 	* [Squeezing the Hardware to Make Performance Juice](https://www.youtube.com/watch?v=5jKLVGI3B4g) by Sasha Goldshtein (2017.03.17, DotNext)
