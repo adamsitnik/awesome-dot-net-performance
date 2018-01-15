@@ -123,10 +123,6 @@ Sorted from newest to oldest:
 
 ## Article series
 
-### General
-
-[High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
-
 ### Benchmarking
 * [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
 * [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
@@ -142,6 +138,10 @@ Sorted from newest to oldest:
 * [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
 * [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
 * [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
+
+### Investigations
+
+[High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
 
 ### JIT Optimizations
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
