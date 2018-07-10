@@ -143,6 +143,7 @@ Sorted from newest to oldest:
 ### Investigations
 
 [High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
+[Squeezing startup performance out of ASP.NET Core MVC apps](https://tuespetre.github.io/aspnetcore/performance/mvc/2016/08/01/aspnet-core-mvc-performance-squeeze.html) by Derek Gray
 
 ### JIT Optimizations
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
