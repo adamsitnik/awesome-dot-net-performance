@@ -18,7 +18,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Books
 
-* [_] [Pro .NET Performance](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow 
+[_] [Pro .NET Performance](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow 
 * [_] [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter
 * [_] [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer
 * [_] [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583430) by Ben Watson
