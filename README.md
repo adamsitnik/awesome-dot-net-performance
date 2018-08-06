@@ -39,6 +39,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance) by Sasha Goldshtein
 * [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
 * [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
+* [High Performance Coding with .NET Core and C#](https://www.udemy.com/high-performance-coding-with-net-core-and-csharp/) by Gergely Kalapos
 
 ## On-Site Trainings
 
