@@ -135,62 +135,61 @@ Sorted from newest to oldest:
 ## Article series
 
 ### Benchmarking
-* [_] [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
-* [_] [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
-* [_] [Micro-Benchmarking Done Wrong, And For The Wrong Reasons](http://blogs.microsoft.co.il/sasha/2012/06/22/micro-benchmarking-done-wrong-and-for-the-wrong-reasons/) by Sasha Goldshtein
-* [_] [Stopwatch under the hood](http://aakinshin.net/en/blog/dotnet/stopwatch/) by Andrey Akinshin
-* [_] [DateTime under the hood](http://aakinshin.net/en/blog/dotnet/datetime/) by Andrey Akinshin
-* [_] [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
-* [_] [Simple microbenchmarking in C#](http://www.yoda.arachsys.com/csharp/benchmark.html) by Jon Skeet
-* [_] [Acquiring high-resolution time stamps](https://msdn.microsoft.com/library/windows/desktop/dn553408.aspx)
-* [_] [On ‘stackalloc’ Performance and The Large Object Heap](http://blogs.microsoft.co.il/sasha/2013/10/17/on-stackalloc-performance-and-the-large-object-heap/) by Sasha Goldshtein
-* [_] [Micro-Benchmarking Considered Harmful](http://blogs.microsoft.co.il/sasha/2009/05/08/micro-benchmarking-considered-harmful/) by Sasha Goldshtein
-* [_] [On Measuring Performance](http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
-* [_] [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
-* [_] [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
-* [_] [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
+* [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
+* [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
+* [Micro-Benchmarking Done Wrong, And For The Wrong Reasons](http://blogs.microsoft.co.il/sasha/2012/06/22/micro-benchmarking-done-wrong-and-for-the-wrong-reasons/) by Sasha Goldshtein
+* [Stopwatch under the hood](http://aakinshin.net/en/blog/dotnet/stopwatch/) by Andrey Akinshin
+* [DateTime under the hood](http://aakinshin.net/en/blog/dotnet/datetime/) by Andrey Akinshin
+* [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
+* [Simple microbenchmarking in C#](http://www.yoda.arachsys.com/csharp/benchmark.html) by Jon Skeet
+* [Acquiring high-resolution time stamps](https://msdn.microsoft.com/library/windows/desktop/dn553408.aspx)
+* [On ‘stackalloc’ Performance and The Large Object Heap](http://blogs.microsoft.co.il/sasha/2013/10/17/on-stackalloc-performance-and-the-large-object-heap/) by Sasha Goldshtein
+* [Micro-Benchmarking Considered Harmful](http://blogs.microsoft.co.il/sasha/2009/05/08/micro-benchmarking-considered-harmful/) by Sasha Goldshtein
+* [On Measuring Performance](http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
+* [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
+* [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
+* [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
 
 ### Investigations
 
 [High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
 
 ### JIT Optimizations
-* [_] [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
-* [_] [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
-* [_] [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
-* [_] [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 2 of N)](http://blogs.microsoft.co.il/sasha/2007/08/12/jit-optimizations-inlining-and-interface-method-dispatching-part-2-of-n/) by Sasha Goldshtein
-* [_] [Performance differences between debug and release builds](http://stackoverflow.com/questions/4043821/performance-differences-between-debug-and-release-builds/4045073#4045073) by Hans Passant
-* [_] [Aggressive Inlining in the CLR 4.5 JIT](http://blogs.microsoft.co.il/sasha/2012/01/20/aggressive-inlining-in-the-clr-45-jit/) by Sasha Goldshtein
-* [_] [Jit Optimizations: Inlining (I)](https://blogs.msdn.microsoft.com/davidnotario/2004/10/28/jit-optimizations-inlining-i/) by David Notario
-* [_] [Jit Optimizations: Inlining (II)](https://blogs.msdn.microsoft.com/davidnotario/2004/11/01/jit-optimizations-inlining-ii/) by David Notario
-* [_] [More on inlining…](https://blogs.msdn.microsoft.com/ericgu/2004/01/29/more-on-inlining/) by Eric Gunnerson
-* [_] [To Inline or not to Inline: That is the question](https://blogs.msdn.microsoft.com/vancem/2008/08/19/to-inline-or-not-to-inline-that-is-the-question/) by Vance Morrison
-* [_] [Some Notes on Using Machine Learning to Develop Inlining Heuristics](https://github.com/AndyAyersMS/PerformanceExplorer/blob/master/notes/notes-aug-2016.md) by Andy Ayers
-* [_] [The JIT does dead-code elimination in Debuggable code](http://blogs.msdn.com/b/jmstall/archive/2006/03/13/dead-code-elimination.aspx) by Mkie Stall
-* [_] [Does the JIT take advantage of my CPU?](https://blogs.msdn.microsoft.com/davidnotario/2005/08/15/does-the-jit-take-advantage-of-my-cpu/) by David Notario
-* [_] [Unrolling of small loops in different JIT versions](http://aakinshin.net/en/blog/dotnet/unrolling-of-small-loops-in-different-jit-versions/) by Andrey Akinshin
-
-* [_] [RyuJIT CTP5 and loop unrolling](http://aakinshin.net/en/blog/dotnet/ryujit-ctp5-and-loop-unrolling/) by Andrey Akinshin
-* [_] [RyuJIT RC and constant folding](http://aakinshin.net/en/blog/dotnet/ryujit-rc-and-constant-folding/) by Andrey Akinshin
-* [_] [A story about JIT-x86 inlining and starg](http://aakinshin.net/en/blog/dotnet/inlining-and-starg/) by Andrey Akinshin
-* [_] [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
-* [_] [Do PDB Files Affect Performance?](http://devcenter.wintellect.com/jrobbins/do-pdb-files-affect-performance) by John Robbins
-* [_] [What does the optimize switch do?](https://blogs.msdn.microsoft.com/ericlippert/2009/06/11/what-does-the-optimize-switch-do/) by Eric Lippert
-* [_] [Hoisting in .NET Explained (part 1)](https://alexandrnikitin.github.io/blog/hoisting-in-net-explained/) by Alexandr Nikitin 
-* [_] [Hoisting in .NET Examples (part 2)](https://alexandrnikitin.github.io/blog/hoisting-in-net-examples/) by Alexandr Nikitin
+* [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
+* [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
+* [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
+* [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 2 of N)](http://blogs.microsoft.co.il/sasha/2007/08/12/jit-optimizations-inlining-and-interface-method-dispatching-part-2-of-n/) by Sasha Goldshtein
+* [Performance differences between debug and release builds](http://stackoverflow.com/questions/4043821/performance-differences-between-debug-and-release-builds/4045073#4045073) by Hans Passant
+* [Aggressive Inlining in the CLR 4.5 JIT](http://blogs.microsoft.co.il/sasha/2012/01/20/aggressive-inlining-in-the-clr-45-jit/) by Sasha Goldshtein
+* [Jit Optimizations: Inlining (I)](https://blogs.msdn.microsoft.com/davidnotario/2004/10/28/jit-optimizations-inlining-i/) by David Notario
+* [Jit Optimizations: Inlining (II)](https://blogs.msdn.microsoft.com/davidnotario/2004/11/01/jit-optimizations-inlining-ii/) by David Notario
+* [More on inlining…](https://blogs.msdn.microsoft.com/ericgu/2004/01/29/more-on-inlining/) by Eric Gunnerson
+* [To Inline or not to Inline: That is the question](https://blogs.msdn.microsoft.com/vancem/2008/08/19/to-inline-or-not-to-inline-that-is-the-question/) by Vance Morrison
+* [Some Notes on Using Machine Learning to Develop Inlining Heuristics](https://github.com/AndyAyersMS/PerformanceExplorer/blob/master/notes/notes-aug-2016.md) by Andy Ayers
+* [The JIT does dead-code elimination in Debuggable code](http://blogs.msdn.com/b/jmstall/archive/2006/03/13/dead-code-elimination.aspx) by Mkie Stall
+* [Does the JIT take advantage of my CPU?](https://blogs.msdn.microsoft.com/davidnotario/2005/08/15/does-the-jit-take-advantage-of-my-cpu/) by David Notario
+* [Unrolling of small loops in different JIT versions](http://aakinshin.net/en/blog/dotnet/unrolling-of-small-loops-in-different-jit-versions/) by Andrey Akinshin
+* [RyuJIT CTP5 and loop unrolling](http://aakinshin.net/en/blog/dotnet/ryujit-ctp5-and-loop-unrolling/) by Andrey Akinshin
+* [RyuJIT RC and constant folding](http://aakinshin.net/en/blog/dotnet/ryujit-rc-and-constant-folding/) by Andrey Akinshin
+* [A story about JIT-x86 inlining and starg](http://aakinshin.net/en/blog/dotnet/inlining-and-starg/) by Andrey Akinshin
+* [LegacyJIT-x86 and first method call](http://aakinshin.net/en/blog/dotnet/legacyjitx86-and-first-method-call/) by Andrey Akinshin
+* [Do PDB Files Affect Performance?](http://devcenter.wintellect.com/jrobbins/do-pdb-files-affect-performance) by John Robbins
+* [What does the optimize switch do?](https://blogs.msdn.microsoft.com/ericlippert/2009/06/11/what-does-the-optimize-switch-do/) by Eric Lippert
+* [Hoisting in .NET Explained (part 1)](https://alexandrnikitin.github.io/blog/hoisting-in-net-explained/) by Alexandr Nikitin 
+* [Hoisting in .NET Examples (part 2)](https://alexandrnikitin.github.io/blog/hoisting-in-net-examples/) by Alexandr Nikitin
 
 ### Refs
-* [_] [ref returns are not pointers](http://mustoverride.com/refs-not-ptrs/) by Vladimir Sadov
-* [_] [managed pointers](http://mustoverride.com/managed-refs-CLR/) by Vladimir Sadov
-* [_] [Local variables cannot be returned by reference](http://mustoverride.com/ref-returns-and-locals/) by Vladimir Sadov
-* [_] [Safe to return rules for ref returns](http://mustoverride.com/safe-to-return/) by Vladimir Sadov
-* [_] [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/) by Vladimir Sadov
-* [_] [ref returns and locals](http://adamsitnik.com/ref-returns-and-ref-locals/) by Adam Sitnik
+* [ref returns are not pointers](http://mustoverride.com/refs-not-ptrs/) by Vladimir Sadov
+* [managed pointers](http://mustoverride.com/managed-refs-CLR/) by Vladimir Sadov
+* [Local variables cannot be returned by reference](http://mustoverride.com/ref-returns-and-locals/) by Vladimir Sadov
+* [Safe to return rules for ref returns](http://mustoverride.com/safe-to-return/) by Vladimir Sadov
+* [Why ref locals allow only a single binding?](http://mustoverride.com/ref-locals_single-assignment/) by Vladimir Sadov
+* [ref returns and locals](http://adamsitnik.com/ref-returns-and-ref-locals/) by Adam Sitnik
 
 ### Threading
-* [_] [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
+* [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
 
 ### Memory
-* [_] [Pooling large arrays with ArrayPool](http://adamsitnik.com/Array-Pool/) by Adam Sitnik
-* [_] [Value Types vs Reference Types](http://adamsitnik.com/Value-Types-vs-Reference-Types/) by Adam Sitnik
-* [_] [Span](http://adamsitnik.com/Span/) by Adam Sitnik
+* [Pooling large arrays with ArrayPool](http://adamsitnik.com/Array-Pool/) by Adam Sitnik
+* [Value Types vs Reference Types](http://adamsitnik.com/Value-Types-vs-Reference-Types/) by Adam Sitnik
+* [Span](http://adamsitnik.com/Span/) by Adam Sitnik
