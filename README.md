@@ -86,6 +86,7 @@ Sorted from newest to oldest:
 * [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
 * [Vladimir Sadov](http://mustoverride.com/)
 * [Adam Sitnik](http://adamsitnik.com)
+* [Konrad Kokosa](http://tooslowexception.com/)
 
 ## Inspiring Open Source Contributors
 
@@ -99,6 +100,7 @@ Sorted from newest to oldest:
 * [nietras](https://github.com/nietras)
 * [Vladimir Sadov](https://github.com/VSadov)
 * [Federico Andres Lois](https://github.com/redknightlois)
+* [Konrad Kokosa](https://github.com/kkokosa)
 
 ## Performance measurement 
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
