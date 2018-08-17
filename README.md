@@ -18,63 +18,64 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Books
 
-- [ ] [Pro .NET Performance](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow 
-- [ ] [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter
-- [ ] [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer
-- [ ] [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583430) by Ben Watson
-- [ ] [Advanced .NET Debugging](https://www.amazon.com/dp/0321578899) by Mario Hewardt
-- [ ] [Concurrent Programming on Windows](https://www.amazon.com/dp/032143482X) by Joe Duffy
-- [ ] [.NET IL Assembler](https://www.amazon.com/dp/1430267615) by Serge Lidin
-- [ ] [High-Performance Windows Store Apps](https://www.amazon.com/dp/0735682631) by Brian Rasmussen
-- [ ] [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner
-- [ ] [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
-- [ ] [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
+* [Pro .NET Performance](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow 
+* [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter
+* [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer
+* [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583430) by Ben Watson
+* [Advanced .NET Debugging](https://www.amazon.com/dp/0321578899) by Mario Hewardt
+* [Concurrent Programming on Windows](https://www.amazon.com/dp/032143482X) by Joe Duffy
+* [.NET IL Assembler](https://www.amazon.com/dp/1430267615) by Serge Lidin
+* [High-Performance Windows Store Apps](https://www.amazon.com/dp/0735682631) by Brian Rasmussen
+* [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner
+* [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
+* [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 
 ## Video Courses
 
-- [ ] [Mastering .NET Performance Tuning](https://wintellectnow.com/Home/SeriesDetail?seriesId=mastering-dotnet-performance-tuning) by John Robbins
-- [ ] [Using Threads Effectively to Build Scalable, Responsive, and Fast .NET Applications and Components](https://wintellectnow.com/Home/SeriesDetail?seriesId=using-threads-effectively-to-build-scalable-responsive-and-fast-dotnet-applications-and-components) by Jeffrey Richter
-- [ ] [Making .NET Applications Faster](https://www.pluralsight.com/courses/making-dotnet-applications-faster) by Sasha Goldshtein
-- [ ] [Making .NET Applications Even Faster](https://www.pluralsight.com/courses/making-dotnet-applications-even-faster) by Sasha Goldshtein
-- [ ] [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance) by Sasha Goldshtein
-- [ ] [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
-- [ ] [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
+* [Mastering .NET Performance Tuning](https://wintellectnow.com/Home/SeriesDetail?seriesId=mastering-dotnet-performance-tuning) by John Robbins
+* [Using Threads Effectively to Build Scalable, Responsive, and Fast .NET Applications and Components](https://wintellectnow.com/Home/SeriesDetail?seriesId=using-threads-effectively-to-build-scalable-responsive-and-fast-dotnet-applications-and-components) by Jeffrey Richter
+* [Making .NET Applications Faster](https://www.pluralsight.com/courses/making-dotnet-applications-faster) by Sasha Goldshtein
+* [Making .NET Applications Even Faster](https://www.pluralsight.com/courses/making-dotnet-applications-even-faster) by Sasha Goldshtein
+* [Measuring .NET Performance](https://app.pluralsight.com/library/courses/measuring-dotnet-performance) by Sasha Goldshtein
+* [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
+* [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
+* [High Performance Coding with .NET Core and C#](https://www.udemy.com/high-performance-coding-with-net-core-and-csharp/) by Gergely Kalapos
 
 ## On-Site Trainings
 
-* [_] [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA (Israel)
-* [_] [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA (Israel)
-* [_] [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA (Israel)
-* [_] [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA (Israel)
-* [_] [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
-* [_] [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
-* [_] [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
+* [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA (Israel)
+* [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA (Israel)
+* [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA (Israel)
+* [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA (Israel)
+* [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
+* [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
+* [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
 
 ## Conference talks
 
 Sorted from newest to oldest:
 * 2017
-	* [_] [What's new for performance in .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk) by Ben Adams (2017.11.09, CORESTART 2.0)
-	* [_] [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
-	* [_] [Look Mommy, No GC!](https://www.youtube.com/watch?v=G49baWvzCOI) by Dina Goldshtein (2017.03.23, NDC)
-	* [_] [Squeezing the Hardware to Make Performance Juice](https://www.youtube.com/watch?v=5jKLVGI3B4g) by Sasha Goldshtein (2017.03.17, DotNext)
-	* [_] [Performance tuning Stack Overflow tags](https://www.youtube.com/watch?v=bd5WYql5vlg) by Marco Cecconi (2017.03.17, DotNext)
-	* [_] [Multithreading Deep Dive](https://www.youtube.com/watch?v=z2QYa2RW9c8) by Gael Fraiteur (2017.03.17, DotNext)
-	* [_] [Stack Overflow — It's all about performance!](https://www.youtube.com/watch?v=9_pluQPfbBk) by Marco Cecconi (2017.03.17, DotNext)
-	* [_] [ETW — Monitor Anything, Anytime, Anywhere](https://www.youtube.com/watch?v=s213p-zB7G4) by Dina Goldshtein (2017.03.17, DotNext)
-	* [_] [Exceptional Exceptions in .NET](https://youtu.be/U92Ts53win4?t=1786) by Adam Sitnik (2017.03.17, DotNext)
+	* [What's new for performance in .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk) by Ben Adams (2017.11.09, CORESTART 2.0)
+	* [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
+	* [Look Mommy, No GC!](https://www.youtube.com/watch?v=G49baWvzCOI) by Dina Goldshtein (2017.03.23, NDC)
+	* [Squeezing the Hardware to Make Performance Juice](https://www.youtube.com/watch?v=5jKLVGI3B4g) by Sasha Goldshtein (2017.03.17, DotNext)
+	* [Performance tuning Stack Overflow tags](https://www.youtube.com/watch?v=bd5WYql5vlg) by Marco Cecconi (2017.03.17, DotNext)
+	* [Multithreading Deep Dive](https://www.youtube.com/watch?v=z2QYa2RW9c8) by Gael Fraiteur (2017.03.17, DotNext)
+	* [Stack Overflow — It's all about performance!](https://www.youtube.com/watch?v=9_pluQPfbBk) by Marco Cecconi (2017.03.17, DotNext)
+	* [ETW — Monitor Anything, Anytime, Anywhere](https://www.youtube.com/watch?v=s213p-zB7G4) by Dina Goldshtein (2017.03.17, DotNext)
+	* [Exceptional Exceptions in .NET](https://youtu.be/U92Ts53win4?t=1786) by Adam Sitnik (2017.03.17, DotNext)
 * 2016
-	* [_] [PerfView: Measure and Improve Your App's Performance For Free](https://www.youtube.com/watch?v=eX644hod65s) by Sasha Goldshtein (2016.11.02, DotNext)
-	* [_] [The C++ and CLR Memory Models](https://www.youtube.com/watch?v=6wZVpg2SyJQ) by Sasha Goldshtein (2016.11.02, DotNext)
-	* [_] [Safe Systems Programming in C# and .NET](https://www.infoq.com/presentations/csharp-systems-programming) by Joe Duffy (2016.08.20, QCon)
-	* [_] [ASP.NET Core Kestrel: Adventures in building a fast web server](https://www.youtube.com/watch?v=kej3YJDMAW4) by Damian Edwards & David Fowler (2016.08.12, NDC)
-	* [_] [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren (2016.07.28, ProgSCon)
-	* [_] [Performance Optimizations in the Wild](https://vimeo.com/171927596) by Oren Eini (Ayende) (2016.06.23, NDC)
-	* [_] [The Vector in Your CPU: Exploiting SIMD for Superscalar Performance](https://www.youtube.com/watch?v=WeJ8b3WRSmM) by Sasha Goldshtein (2016.04.19, DotNext)
-	* [_] [Lessons in Extreme .NET Performance](https://www.infoq.com/presentations/bing-net-performance) by Ben Watson (2016.03.13, QCon)
+	* [PerfView: Measure and Improve Your App's Performance For Free](https://www.youtube.com/watch?v=eX644hod65s) by Sasha Goldshtein (2016.11.02, DotNext)
+	* [The C++ and CLR Memory Models](https://www.youtube.com/watch?v=6wZVpg2SyJQ) by Sasha Goldshtein (2016.11.02, DotNext)
+	* [Safe Systems Programming in C# and .NET](https://www.infoq.com/presentations/csharp-systems-programming) by Joe Duffy (2016.08.20, QCon)
+	* [ASP.NET Core Kestrel: Adventures in building a fast web server](https://www.youtube.com/watch?v=kej3YJDMAW4) by Damian Edwards & David Fowler (2016.08.12, NDC)
+	* [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren (2016.07.28, ProgSCon)
+	* [Performance Optimizations in the Wild](https://vimeo.com/171927596) by Oren Eini (Ayende) (2016.06.23, NDC)
+	* [The Vector in Your CPU: Exploiting SIMD for Superscalar Performance](https://www.youtube.com/watch?v=WeJ8b3WRSmM) by Sasha Goldshtein (2016.04.19, DotNext)
+	* [Lessons in Extreme .NET Performance](https://www.infoq.com/presentations/bing-net-performance) by Ben Watson (2016.03.13, QCon)
 * Older
-	* [_] [Making .NET applications faster](https://www.youtube.com/watch?v=jz3SvJhdtEw) by Sasha Goldshtein (2015.10.30, DevWeek)
-	* [_] [The zen of async: Best practices for best performance](https://channel9.msdn.com/Events/Build/BUILD2011/TOOL-829T) by Stephen Toub (2011.09.13, Build)
+	* [Making .NET applications faster](https://www.youtube.com/watch?v=jz3SvJhdtEw) by Sasha Goldshtein (2015.10.30, DevWeek)
+	* [The zen of async: Best practices for best performance](https://channel9.msdn.com/Events/Build/BUILD2011/TOOL-829T) by Stephen Toub (2011.09.13, Build)
 
 ## Blogs
 
@@ -110,19 +111,26 @@ Sorted from newest to oldest:
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
 
 ## High Performance Libraries
-* [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers.
-* [Nessos Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
-* [SIMD Array](https://github.com/jackmott/SIMDArray) - SIMD and other Performance enhanced Array operations for F#.
-* [markdig](https://github.com/lunet-io/markdig) - Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
-* [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
-* [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
-* [DryIoc](https://bitbucket.org/dadhi/dryioc/overview) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
-* [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
-* [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET.
-* [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET.
-* [ImTools](https://github.com/dadhi/ImTools) - Immutable persistent collections and helpers designed for [performance](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4) and simplicity of use.
-* [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
-* [Spreads](https://github.com/Spreads/Spreads) - "Series and Panels for Real-time and Exploratory Analysis of Data Streams", a library for fast time series incremental calculations + SIMD-optimized byte-shuffling/LZ4/Zstd compression using [Blosc](https://github.com/Blosc/c-blosc/) library.
+* Mathematics
+  * [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers.
+  * [Spreads](https://github.com/Spreads/Spreads) - "Series and Panels for Real-time and Exploratory Analysis of Data Streams", a library for fast time series incremental calculations + SIMD-optimized byte-shuffling/LZ4/Zstd compression using [Blosc](https://github.com/Blosc/c-blosc/) library.
+* CPU Optimization
+  * [SIMD Array](https://github.com/jackmott/SIMDArray) - SIMD and other Performance enhanced Array operations for F#.
+  * [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET.
+* IO Optimization
+  * [Nessos Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+  * [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
+  * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
+  * [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET.
+* Collections
+  * [ImTools](https://github.com/dadhi/ImTools) - Immutable persistent collections and helpers designed for [performance](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4) and simplicity of use.
+* Parsing and Compiling
+  * [markdig](https://github.com/lunet-io/markdig) - Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+  * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
+* Inversion of Control frameworks
+  * [DryIoc](https://bitbucket.org/dadhi/dryioc/overview) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
+  * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
+
 
 ## Article series
 
