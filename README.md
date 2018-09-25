@@ -8,7 +8,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Conference Talks](#conference-talks)
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
-	- [Performance measurement](#performance-measurement)
+	- [Performance tools](#performance-tools)
 	- [High Performance Libraries](#high-performance-libraries)
 	- Article series
 		- [Benchmarking](#benchmarking)
@@ -103,11 +103,16 @@ Sorted from newest to oldest:
 * [Federico Andres Lois](https://github.com/redknightlois)
 * [Konrad Kokosa](https://github.com/kkokosa)
 
-## Performance measurement 
+## Performance tools
+### Benchmarking
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
 * [xunit.performance](https://github.com/Microsoft/xunit-performance) - Provides extensions over xUnit to author performance tests.
+### Profiling
 * [Prefix](http://stackify.com/prefix) - Free lightweight profiler for ASP.NET apps shows everything your code is doing across 30+ common libraries
+* [MiniProfiler](https://miniprofiler.com/dotnet/) - Free profiling tool for .NET applications with Entity Framework and ASP.Net integration (Core supported for both versions)
+* [dotTrace](https://www.jetbrains.com/profiler/) - Paid profiler for .NET applications from the JetBrains team, included in the Resharper Ultimate package
+### Application Insights
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
 
 ## High Performance Libraries
