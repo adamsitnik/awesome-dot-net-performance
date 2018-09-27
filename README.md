@@ -5,6 +5,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Books](#books)
 	- [Video Courses](#video-courses)
 	- [On-Site Trainings](#on-site-trainings)
+	- [Conferences](#conferences)
 	- [Conference Talks](#conference-talks)
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
@@ -29,6 +30,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner
 * [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
+* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/gp/product/148424026X/ref=dbs_a_def_rwt_bibl_vppi_i0) by Konrad Kokosa
 
 ## Video Courses
 
@@ -50,6 +52,11 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
 * [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
 * [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
+
+## Conferences
+* 2018
+	* [Dotnetos - .NET Performance World](https://dotnetos.org) with Alexandre Mutel, Andrey Akinshin, Adam Sitnik, Shay Rojansky, Jarosław Pałka, Łukasz Pyrzyk, Konrad Kokosa and Szymon Kulec (Warsaw, 5th of November 2018)
+	* [Dotnetos - .NET Performance Tour](https://dotnetos.org/tour) with Szymon Kulec, Konrad Kokosa and Łukasz Pyrzyk (Gdańsk, Łódź, Warsaw, Kraków, Wrocław. 12nd - 16th of March 2018)
 
 ## Conference talks
 
