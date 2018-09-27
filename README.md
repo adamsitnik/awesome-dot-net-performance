@@ -30,7 +30,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner
 * [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
-* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/gp/product/148424026X/ref=dbs_a_def_rwt_bibl_vppi_i0) by Konrad Kokosa
+* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://prodotnetmemory.com) by Konrad Kokosa
 
 ## Video Courses
 
