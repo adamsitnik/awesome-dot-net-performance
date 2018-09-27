@@ -55,8 +55,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Conferences
 * 2018
-	* [Dotnetos - .NET Performance World](https://dotnetos.org) with Alexandre Mutel, Andrey Akinshin, Adam Sitnik, Shay Rojansky, Jarosław Pałka, Łukasz Pyrzyk, Konrad Kokosa and Szymon Kulec (Warsaw, 5th of November 2018)
-	* [Dotnetos - .NET Performance Tour](https://dotnetos.org/tour) with Szymon Kulec, Konrad Kokosa and Łukasz Pyrzyk (Gdańsk, Łódź, Warsaw, Kraków, Wrocław. 12nd - 16th of March 2018)
+	* [Dotnetos - .NET Performance World](https://dotnetos.org) with Alexandre Mutel, Andrey Akinshin, Adam Sitnik, Shay Rojansky, Jarosław Pałka, Łukasz Pyrzyk, Konrad Kokosa and Szymon Kulec (2018.11.05, Warsaw)
+	* [Dotnetos - .NET Performance Tour](https://dotnetos.org/tour) with Szymon Kulec, Konrad Kokosa and Łukasz Pyrzyk (2018.03.12-16, Gdańsk, Łódź, Warsaw, Kraków, Wrocław)
 
 ## Conference talks
 
