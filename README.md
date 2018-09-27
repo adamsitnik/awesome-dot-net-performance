@@ -42,7 +42,6 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
 * [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
 * [High Performance Coding with .NET Core and C#](https://www.udemy.com/high-performance-coding-with-net-core-and-csharp/) by Gergely Kalapos
-* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://www.amazon.com/gp/product/148424026X/ref=dbs_a_def_rwt_bibl_vppi_i0) by Konrad Kokosa
 
 ## On-Site Trainings
 
