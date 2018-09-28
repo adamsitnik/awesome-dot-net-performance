@@ -5,7 +5,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Books](#books)
 	- [Video Courses](#video-courses)
 	- [On-Site Trainings](#on-site-trainings)
-	- [Conferences](#conferences)
+	- [Upcoming conferences](#upcoming-conferences)
 	- [Conference Talks](#conference-talks)
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
@@ -53,10 +53,9 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
 * [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
 
-## Conferences
+## Upcoming conferences
 * 2018
 	* [Dotnetos - .NET Performance World](https://dotnetos.org) with Alexandre Mutel, Andrey Akinshin, Adam Sitnik, Shay Rojansky, Jarosław Pałka, Łukasz Pyrzyk, Konrad Kokosa and Szymon Kulec (2018.11.05, Warsaw)
-	* [Dotnetos - .NET Performance Tour](https://dotnetos.org/tour) with Szymon Kulec, Konrad Kokosa and Łukasz Pyrzyk (2018.03.12-16, Gdańsk, Łódź, Warsaw, Kraków, Wrocław)
 
 ## Conference talks
 
