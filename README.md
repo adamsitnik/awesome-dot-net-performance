@@ -42,6 +42,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [PerfView Tutorial](https://channel9.msdn.com/Series/PerfView-Tutorial) by Vance Morrison
 * [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
 * [High Performance Coding with .NET Core and C#](https://www.udemy.com/high-performance-coding-with-net-core-and-csharp/) by Gergely Kalapos
+* Defrag tools about CLR GC [part 1](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-33-CLR-GC-Part-1) [part 2](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-34-CLR-GC-Part-2) [part 3](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-35-CLR-GC-Part-3) and [part 4](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-36-CLR-GC-Part-4) with Maoni Stephens
 
 ## On-Site Trainings
 
@@ -60,6 +61,10 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Conference talks
 
 Sorted from newest to oldest:
+* 2018
+    * [Extend the new WinDbg to build your own dream debugging tool](https://www.youtube.com/watch?v=tSlFd0CIo0g)  by Kevin Gosse (DotNext Moscow)
+    * [Building your own debugging toolbox with ClrMD](https://www.youtube.com/watch?v=NsAYan7jlGE)  by Christophe Nasarre (DotNext Moscow)
+    * [Advanced .NET debugging techniques from a real world investigation](https://www.youtube.com/watch?v=tGXegMmIZ2s)  by Christophe Nasarre & Kevin Gosse (DotNext StPetersburg)
 * 2017
 	* [What's new for performance in .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk) by Ben Adams (2017.11.09, CORESTART 2.0)
 	* [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
@@ -161,9 +166,32 @@ Sorted from newest to oldest:
 * [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
 * [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
 
-### Investigations
+### Monitoring
+* [Performance Counters Hell](http://labs.criteo.com/2018/04/performance-counters-hell/) by Criteo Labs
+* [Replace .NET performance counters by CLR event tracing](http://labs.criteo.com/2018/06/replace-net-performance-counters-by-clr-event-tracing/) by Criteo Labs
+* [Grab ETW Session, Providers and Events](http://labs.criteo.com/2018/07/grab-etw-session-providers-and-events/) by Criteo Labs
+* [Monitor Finalizers, contention and threads in your application](http://labs.criteo.com/2018/09/monitor-finalizers-contention-and-threads-in-your-application/) by Criteo Labs
+* [In-process CLR event listeners with .NET Core 2.2](https://medium.com/criteo-labs/c-in-process-clr-event-listeners-with-net-core-2-2-ef4075c14e87) by Christophe Nasarre
+* [Spying on .NET Garbage Collector with TraceEvent](https://medium.com/criteo-labs/spying-on-net-garbage-collector-with-traceevent-f49dc3117de) by Christophe Nasarre
 
-[High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
+### Investigations
+* [High-performance .NET by example: Filtering bot traffic](https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/) by Alexandr Nikitin
+* [RyuJIT and the never-ending ThreadAbortException](http://labs.criteo.com/2017/04/ryujit-never-ending-threadabortexception/) by Criteo Labs
+* [9 posts about how to build your own toolbox with ClrMD](http://labs.criteo.com/2017/12/clrmd-part-9-deciphering-tasks-thread-pool-items/) by Criteo Labs
+* [.NET Threadpool starvation, and how queuing makes it worse](http://labs.criteo.com/2018/10/net-threadpool-starvation-and-how-queuing-makes-it-worse/) by Criteo Labs
+* [Get-process-name challenge on a Friday afternoon](https://medium.com/criteo-labs/get-process-name-challenge-on-a-friday-afternoon-304a93bccdd1) by Christophe Nasarre
+
+###### Debugging performances series by Tess Ferrandez
+* [All .NET Debugging Demos: Hang, Crash, memory, and CPU ](https://blogs.msdn.microsoft.com/tess/2008/04/03/net-debugging-demos-lab-7-memory-leak-review/)
+* [Reader email: Need help troubleshooting perf/memory issues](https://blogs.msdn.microsoft.com/tess/2010/12/06/reader-email-need-help-troubleshooting-perfmemory-issues/)
+* [Debugging a classic ReaderWriterLock deadlock with SOSex.dll](https://blogs.msdn.microsoft.com/tess/2010/04/27/debugging-a-classic-readerwriterlock-deadlock-with-sosex-dll/)
+* [New commands in SOS for .NET 4.0 Part 1](https://blogs.msdn.microsoft.com/tess/2010/03/01/new-commands-in-sos-for-net-4-0-part-1/)
+* [High CPU in .NET app using a static Generic.Dictionary](https://blogs.msdn.microsoft.com/tess/2009/12/21/high-cpu-in-net-app-using-a-static-generic-dictionary/)
+* [.NET Hang Case study: The danger of locking on strings](https://blogs.msdn.microsoft.com/tess/2009/10/19/net-hang-case-study-the-danger-of-locking-on-strings/)
+* [First step in troubleshooting complex issues: Define and scope your issue properly](https://blogs.msdn.microsoft.com/tess/2009/09/09/first-step-in-troubleshooting-complex-issues-define-and-scope-your-issue-properly/)
+* [Show me the memory: Tool for visualizing virtual memory usage and GC heap usage.](https://blogs.msdn.microsoft.com/tess/2009/04/23/show-me-the-memory-tool-for-visualizing-virtual-memory-usage-and-gc-heap-usage/)
+* [.NET Memory Leak reader email: Are you really “leaking” .net memory](https://blogs.msdn.microsoft.com/tess/2009/02/27/net-memory-leak-reader-email-are-you-really-leaking-net-memory/)
+* [.NET Memory Leak: To dispose or not to dispose, that’s the 1 GB question](https://blogs.msdn.microsoft.com/tess/2009/02/03/net-memory-leak-to-dispose-or-not-to-dispose-thats-the-1-gb-question/)
 
 ### JIT Optimizations
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
