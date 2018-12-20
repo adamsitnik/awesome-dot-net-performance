@@ -22,7 +22,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Pro .NET Performance](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow 
 * [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter
 * [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer
-* [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583430) by Ben Watson
+* [Writing High-Performance .NET Code](https://www.amazon.co.uk/dp/0990583457) by Ben Watson
 * [Advanced .NET Debugging](https://www.amazon.com/dp/0321578899) by Mario Hewardt
 * [Concurrent Programming on Windows](https://www.amazon.com/dp/032143482X) by Joe Duffy
 * [.NET IL Assembler](https://www.amazon.com/dp/1430267615) by Serge Lidin
