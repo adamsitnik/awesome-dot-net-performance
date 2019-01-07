@@ -55,6 +55,10 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
 
 ## Upcoming conferences
+* 2019
+
+	* [DotNetSouth.Tech](http://dotnetsouth.tech) DotNetSouth.Tech is a community conference that brings you industry experts in an intimate setting for 3-days of learning, networking and great community spirit. This exciting conference will feature in-depth sessions and workshops by Microsoft MVPs, Microsoft Product Leads, globally renowned speakers and community experts on subjects like  ASP.NET Core, Azure, Web, Data, IoT, AI/ML, SQL Server, Visual Studio and much more (2019.05.08, Atlanta USA)
+	
 * 2018
 	* [Dotnetos - .NET Performance World](https://dotnetos.org) with Alexandre Mutel, Andrey Akinshin, Adam Sitnik, Shay Rojansky, Jarosław Pałka, Łukasz Pyrzyk, Konrad Kokosa and Szymon Kulec (2018.11.05, Warsaw)
 
