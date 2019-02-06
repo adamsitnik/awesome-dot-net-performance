@@ -240,3 +240,4 @@ Sorted from newest to oldest:
 * [Exploring .NET Core platform intrinsics: Part 4 - Alignment and pipelining](https://mijailovic.net/2018/07/20/alignment-and-pipelining/) by Nemanja Mijailovic
 * [.NET Core 3.0 Intrinsics in Real Life - 1/3](https://bits.houmus.org/2018-08-18/netcoreapp3.0-instrinsics-in-real-life-pt1) by damageboy
 * [.NET Core 3.0 Intrinsics in Real Life - 2/3](https://bits.houmus.org/2018-08-19/netcoreapp3.0-instrinsics-in-real-life-pt2) by damageboy
+* [.NET Core 3.0 Intrinsics in Real Life - 3/3](https://bits.houmus.org/2018-08-20/netcoreapp3.0-intrinsics-in-real-life-pt3) by damageboy
