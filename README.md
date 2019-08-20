@@ -144,7 +144,7 @@ Sorted from newest to oldest:
   * [markdig](https://github.com/lunet-io/markdig) - Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
   * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
 * Inversion of Control frameworks
-  * [DryIoc](https://bitbucket.org/dadhi/dryioc/overview) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
+  * [DryIoc](https://github.com/dadhi/DryIoc) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
   * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 
 
