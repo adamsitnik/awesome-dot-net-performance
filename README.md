@@ -62,11 +62,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2019
+    * [Spanification](https://www.youtube.com/watch?v=THXG5jv0BrU) by Adam Sitnik (09.09.2019, Update Conference Prague)
+    * [JIT and AOT in the CLR](https://www.youtube.com/watch?v=PS36qjpPRaY) by Mei-Chin Tsai (30.07.2019, JVM Language Summit)
+    * [Powerful benchmarking in .NET](https://www.youtube.com/watch?v=pdcrSG4tOLI) by Adam Sitnik (09.07.2019, Update Conference Prague)
     * [What’s new for performance in .NET Core and ASP.NET Core 3.0](https://www.youtube.com/watch?v=bIfolJJJWqs) by Ben Adams (08.07.2019, .NET Core Summer Event)
     * [Ref struct, ref readonly struct, ref returning, ref everything!](https://www.youtube.com/watch?v=bYBbhqvC26Y) by Konrad Kokosa (04.06.2019, DotNext)
     * [Building responsive and scalable applications](https://www.youtube.com/watch?v=xGSabgBo-S8) by Jeffrey Richter (26.03.2019, DotNext)
     * [Make your custom .NET GC — "whys" and "hows"](https://www.youtube.com/watch?v=om8YFyTO5ik) by Konrad Kokosa (18.03.2019, DotNext)
     * [Extend the new WinDbg to build your own dream debugging tool](https://www.youtube.com/watch?v=tSlFd0CIo0g)  by Kevin Gosse (18.03.2019, DotNext)
+    * [Tuning a Runtime for Both Productivity and Performance](https://www.infoq.com/presentations/net-runtime-architecture/) by Mei-Chin Tsai (26.02.2019, QCon)
 * 2018
     * [Efficient Buffer Manipulation using C# 7.2's Span](https://www.youtube.com/watch?v=gWcyXGIbRDI) by Jeffrey Richter (28.11.2018, SPB .NET Meetup)
     * [Building your own debugging toolbox with ClrMD](https://www.youtube.com/watch?v=NsAYan7jlGE)  by Christophe Nasarre (28.11.2018, DotNext)
