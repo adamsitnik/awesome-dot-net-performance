@@ -61,10 +61,19 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Conference talks
 
 Sorted from newest to oldest:
+* 2019
+    * [What’s new for performance in .NET Core and ASP.NET Core 3.0](https://www.youtube.com/watch?v=bIfolJJJWqs) by Ben Adams (08.07.2019, .NET Core Summer Event)
+    * [Ref struct, ref readonly struct, ref returning, ref everything!](https://www.youtube.com/watch?v=bYBbhqvC26Y) by Konrad Kokosa (04.06.2019, DotNext)
+    * [Building responsive and scalable applications](https://www.youtube.com/watch?v=xGSabgBo-S8) by Jeffrey Richter (26.03.2019, DotNext)
+    * [Make your custom .NET GC — "whys" and "hows"](https://www.youtube.com/watch?v=om8YFyTO5ik) by Konrad Kokosa (18.03.2019, DotNext)
+    * [Extend the new WinDbg to build your own dream debugging tool](https://www.youtube.com/watch?v=tSlFd0CIo0g)  by Kevin Gosse (18.03.2019, DotNext)
 * 2018
-    * [Extend the new WinDbg to build your own dream debugging tool](https://www.youtube.com/watch?v=tSlFd0CIo0g)  by Kevin Gosse (DotNext Moscow)
-    * [Building your own debugging toolbox with ClrMD](https://www.youtube.com/watch?v=NsAYan7jlGE)  by Christophe Nasarre (DotNext Moscow)
-    * [Advanced .NET debugging techniques from a real world investigation](https://www.youtube.com/watch?v=tGXegMmIZ2s)  by Christophe Nasarre & Kevin Gosse (DotNext StPetersburg)
+    * [Efficient Buffer Manipulation using C# 7.2's Span](https://www.youtube.com/watch?v=gWcyXGIbRDI) by Jeffrey Richter (28.11.2018, SPB .NET Meetup)
+    * [Building your own debugging toolbox with ClrMD](https://www.youtube.com/watch?v=NsAYan7jlGE)  by Christophe Nasarre (28.11.2018, DotNext)
+    * [Scratched metal](https://www.youtube.com/watch?v=eB_S9lQ4c4I) by Federico Lois (26.10.2018, DotNext)
+    * [PerfView: The Ultimate .NET Performance Tool](https://www.youtube.com/watch?v=qGEeZZBwVp4) by Sasha Goldshtein (27.08.2018, QCon)
+    * [Advanced .NET debugging techniques from a real world investigation](https://www.youtube.com/watch?v=tGXegMmIZ2s)  by Christophe Nasarre & Kevin Gosse (21.08.2018, DotNext)
+    * [Patterns for high-performance C#](https://www.youtube.com/watch?v=7GTpwgsmHgU) by Federico Lois (08.02.2018, DotNext)
 * 2017
 	* [What's new for performance in .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk) by Ben Adams (2017.11.09, CORESTART 2.0)
 	* [State of the .NET Performance](https://www.youtube.com/watch?v=CSPSvBeqJ9c) by Adam Sitnik (2017.07.05, NDC)
