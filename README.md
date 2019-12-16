@@ -56,8 +56,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
 
 ## Upcoming conferences
-* 2019
-	* [Dotnetos - .NET Performance World](https://conf.dotnetos.org) - Two-day conference dedicated solely to .NET performance! Both international and Polish speakers (all sessions in English). Chance to meet well-known people from .NET performance area in person. (10-11 October 2019, Warsaw)
+* 2020
+	* [Dotnetos - .NET Performance World](https://conf.dotnetos.org) - Two-day conference dedicated solely to .NET performance! Both international and Polish speakers (all sessions in English). Chance to meet well-known people from .NET performance area in person. (?? 2020, Warsaw)
 ## Conference talks
 
 Sorted from newest to oldest:
