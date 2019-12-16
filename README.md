@@ -13,9 +13,15 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [High Performance Libraries](#high-performance-libraries)
 	- Article series
 		- [Benchmarking](#benchmarking)
+		- [Monitoring](#monitoring)
+		- [Investigations](#investigations)
+		- [Debugging performances series by Tess Ferrandez](#debugging-performances-series-by-tess-ferrandez)
 		- [JIT Optimizations](#jit-optimizations)
 		- [Refs](#refs)		
 		- [Threading](#threading)
+		- [Memory](#memory)
+		- [.NET Core 3.0 Intrinsics](#net_core_30_intrinsics)
+		- [Performance Improvements in .NET Core](#performance_improvements_in_net_core)
 
 ## Books
 
@@ -103,6 +109,8 @@ Sorted from newest to oldest:
 
 ## Blogs
 
+* [Maoni Stephens](https://devblogs.microsoft.com/dotnet/author/maoni/)
+* [Stephen Toub](https://devblogs.microsoft.com/dotnet/author/stephen_toubhotmail-com/)
 * [Matt Warren](http://mattwarren.org)
 * [Andrey Akinshin](http://aakinshin.net)
 * [Dan Shechter](https://bits.houmus.org/)
@@ -192,7 +200,7 @@ Sorted from newest to oldest:
 * [.NET Threadpool starvation, and how queuing makes it worse](http://labs.criteo.com/2018/10/net-threadpool-starvation-and-how-queuing-makes-it-worse/) by Criteo Labs
 * [Get-process-name challenge on a Friday afternoon](https://medium.com/criteo-labs/get-process-name-challenge-on-a-friday-afternoon-304a93bccdd1) by Christophe Nasarre
 
-###### Debugging performances series by Tess Ferrandez
+### Debugging performances series by Tess Ferrandez
 * [All .NET Debugging Demos: Hang, Crash, memory, and CPU ](https://blogs.msdn.microsoft.com/tess/2008/04/03/net-debugging-demos-lab-7-memory-leak-review/)
 * [Reader email: Need help troubleshooting perf/memory issues](https://blogs.msdn.microsoft.com/tess/2010/12/06/reader-email-need-help-troubleshooting-perfmemory-issues/)
 * [Debugging a classic ReaderWriterLock deadlock with SOSex.dll](https://blogs.msdn.microsoft.com/tess/2010/04/27/debugging-a-classic-readerwriterlock-deadlock-with-sosex-dll/)
@@ -237,6 +245,8 @@ Sorted from newest to oldest:
 * [ref returns and locals](https://adamsitnik.com/ref-returns-and-ref-locals/) by Adam Sitnik
 
 ### Threading
+* [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)  by Stephen Toub
+* [ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/) by Stephen Toub
 * [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
 
 ### Memory
@@ -252,3 +262,9 @@ Sorted from newest to oldest:
 * [.NET Core 3.0 Intrinsics in Real Life - 1/3](https://bits.houmus.org/2018-08-18/netcoreapp3.0-intrinsics-in-real-life-pt1) by damageboy
 * [.NET Core 3.0 Intrinsics in Real Life - 2/3](https://bits.houmus.org/2018-08-19/netcoreapp3.0-intrinsics-in-real-life-pt2) by damageboy
 * [.NET Core 3.0 Intrinsics in Real Life - 3/3](https://bits.houmus.org/2018-08-20/netcoreapp3.0-intrinsics-in-real-life-pt3) by damageboy
+
+### Performance Improvements in .NET Core
+* [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) by Stephen Toub
+* [Performance Improvements in .NET Core 2.1](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-2-1/) by Stephen Toub
+* [Performance Improvements in .NET Core](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core/) by Stephen Toub
+
