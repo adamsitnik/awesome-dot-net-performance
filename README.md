@@ -105,10 +105,10 @@ Sorted from newest to oldest:
 
 * [Matt Warren](http://mattwarren.org)
 * [Andrey Akinshin](http://aakinshin.net)
+* [Dan Shechter](https://bits.houmus.org/)
+* [Egor Bogatov](https://egorbo.com/)
 * [Oren Eini aka Ayende](https://ayende.com/blog)
-* [Sasha Goldshtein](http://blogs.microsoft.co.il/sasha)
 * [Alexandre Mutel aka xoofx](http://xoofx.com/blog)
-* [Jack Mott aka PerlinMandleBro](https://jackmott.github.io)
 * [Vladimir Sadov](http://mustoverride.com/)
 * [Adam Sitnik](http://adamsitnik.com)
 * [Konrad Kokosa](http://tooslowexception.com/)
@@ -118,20 +118,18 @@ Sorted from newest to oldest:
 * [Ben Adams](https://github.com/benaadams)
 * [Jan Kotas](https://github.com/jkotas)
 * [Stephen Toub](https://github.com/stephentoub)
-* [omariom](https://github.com/omariom)
-* [James Ko](https://github.com/jamesqo)
 * [mikedn](https://github.com/mikedn)
-* [Justin Van Patten](https://github.com/justinvp)
-* [nietras](https://github.com/nietras)
 * [Vladimir Sadov](https://github.com/VSadov)
+* [Dan Shechter](https://github.com/damageboy)
+* [Egor Bogatov](https://github.com/EgorBo)
 * [Federico Andres Lois](https://github.com/redknightlois)
 * [Konrad Kokosa](https://github.com/kkokosa)
+* [nietras](https://github.com/nietras)
 
 ## Performance tools
 ### Benchmarking
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
-* [xunit.performance](https://github.com/Microsoft/xunit-performance) - Provides extensions over xUnit to author performance tests.
 ### Profiling
 * [Prefix](http://stackify.com/prefix) - Free lightweight profiler for ASP.NET apps shows everything your code is doing across 30+ common libraries
 * [MiniProfiler](https://miniprofiler.com/dotnet/) - Free profiling tool for .NET applications with Entity Framework and ASP.Net integration (Core supported for both versions)
