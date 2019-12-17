@@ -20,8 +20,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 		- [Refs](#refs)		
 		- [Threading](#threading)
 		- [Memory](#memory)
-		- [.NET Core 3.0 Intrinsics](#net_core_30_intrinsics)
-		- [Performance Improvements in .NET Core](#performance_improvements_in_net_core)
+		- [.NET Core 3.0 Intrinsics](#net-core-30-intrinsics)
+		- [Performance Improvements in .NET Core](#performance-improvements-in-net-core)
 
 ## Books
 
