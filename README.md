@@ -63,11 +63,22 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Upcoming conferences
 * 2020
-	* [Dotnetos - .NET Performance World](https://conf.dotnetos.org) - Two-day conference dedicated solely to .NET performance! Both international and Polish speakers (all sessions in English). Chance to meet well-known people from .NET performance area in person. (?? 2020, Warsaw)
+	* [Dotnetos - .NET Performance World](https://conf.dotnetos.org) - Two-day conference dedicated solely to .NET performance! Both international and Polish speakers (all sessions in English). Chance to meet well-known people from .NET performance area in person. (01-02 October 2020, Warsaw)
 ## Conference talks
 
 Sorted from newest to oldest:
 * 2019
+    * [Compiling and Running a PHP on .NET Core](https://www.youtube.com/watch?v=nb6H84Y5fag) by Jakub Míšek, (11.10.2019, Dotnetos Conference)
+    * [Ethereum performance in .NET Core](https://www.youtube.com/watch?v=jtv2TzaZ594) by Tomasz Stanczak, Piotr Gankiewicz, (11.10.2019, Dotnetos Conference)
+    * [To ORM or not to ORM](https://www.youtube.com/watch?v=SUXqvh5T2T8) by Łukasz Dziekan, (11.10.2019, Dotnetos Conference)
+    * [Writing Allocation Free Code in C#](https://www.youtube.com/watch?v=bMmuSXx5vsQ) by Matt Ellis, (11.10.2019, Dotnetos Conference)
+    * [Cliff diving into async in .NET Core and C# 8](https://www.youtube.com/watch?v=fcLcWwSEJUQ) by Daniel Marbach, (11.10.2019, Dotnetos Conference)
+    * [Performance Testing](https://www.youtube.com/watch?v=5S8c3j2HFpY) by Andrey Akinshin, (10.10.2019, Dotnetos Conference)
+    * [How Entity Framework translates LINQ all the way to SQL](https://www.youtube.com/watch?v=r69ZxXgOIK4) by Shay Rojansky, (10.10.2019, Dotnetos Conference)
+    * [.NET Intrinsics in CoreCLR 3.0](https://www.youtube.com/watch?v=M6HaSvifxwQ) by Dan Schechter, (10.10.2019, Dotnetos Conference)
+    * [The .NET Garbage Collector](https://www.youtube.com/watch?v=LPcjSdob9AA) by Peter Sollich, (10.10.2019, Dotnetos Conference)
+    * [.NET Performance Investigation](https://www.youtube.com/watch?v=y4HV5m5GR7o) by Adam Sitnik, (10.10.2019, Dotnetos Conference)
+	* [Performance in the .NET Runtime](https://www.youtube.com/watch?v=9l8EOQV1Yws) by Matt Warren, (10.10.2019, Dotnetos Conference)
     * [Spanification](https://www.youtube.com/watch?v=THXG5jv0BrU) by Adam Sitnik (09.09.2019, Update Conference Prague)
     * [JIT and AOT in the CLR](https://www.youtube.com/watch?v=PS36qjpPRaY) by Mei-Chin Tsai (30.07.2019, JVM Language Summit)
     * [Powerful benchmarking in .NET](https://www.youtube.com/watch?v=pdcrSG4tOLI) by Adam Sitnik (09.07.2019, Update Conference Prague)
