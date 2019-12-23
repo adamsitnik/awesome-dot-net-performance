@@ -182,6 +182,7 @@ Sorted from newest to oldest:
 ## Article series
 
 ### Benchmarking
+* [Microbenchmark Design Guidelines](https://github.com/dotnet/performance/blob/master/docs/microbenchmark-design-guidelines.md) by Adam Sitnik
 * [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
 * [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
 * [Micro-Benchmarking Done Wrong, And For The Wrong Reasons](http://blogs.microsoft.co.il/sasha/2012/06/22/micro-benchmarking-done-wrong-and-for-the-wrong-reasons/) by Sasha Goldshtein
