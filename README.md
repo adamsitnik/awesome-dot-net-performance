@@ -68,6 +68,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2019
+    * [What the game industry taught me about performance](https://vimeo.com/372255674) by Brian Rasmussen, (10.11.2019, Øredev)
     * [Compiling and Running a PHP on .NET Core](https://www.youtube.com/watch?v=nb6H84Y5fag) by Jakub Míšek, (11.10.2019, Dotnetos Conference)
     * [Ethereum performance in .NET Core](https://www.youtube.com/watch?v=jtv2TzaZ594) by Tomasz Stanczak, Piotr Gankiewicz, (11.10.2019, Dotnetos Conference)
     * [To ORM or not to ORM](https://www.youtube.com/watch?v=SUXqvh5T2T8) by Łukasz Dziekan, (11.10.2019, Dotnetos Conference)
