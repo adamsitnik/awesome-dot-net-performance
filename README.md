@@ -288,6 +288,9 @@ Sorted from newest to oldest:
 * [.NET Core 3.0 Intrinsics in Real Life - 1/3](https://bits.houmus.org/2018-08-18/netcoreapp3.0-intrinsics-in-real-life-pt1) by damageboy
 * [.NET Core 3.0 Intrinsics in Real Life - 2/3](https://bits.houmus.org/2018-08-19/netcoreapp3.0-intrinsics-in-real-life-pt2) by damageboy
 * [.NET Core 3.0 Intrinsics in Real Life - 3/3](https://bits.houmus.org/2018-08-20/netcoreapp3.0-intrinsics-in-real-life-pt3) by damageboy
+* [Decimating Array.Sort with AVX2 - 1/∞](https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1) by damageboy
+* [Decimating Array.Sort with AVX2 - 2/∞](https://bits.houmus.org/2020-01-29/this-goes-to-eleven-pt2) by damageboy
+* [Decimating Array.Sort with AVX2 - 3/∞](https://bits.houmus.org/2020-01-30/this-goes-to-eleven-pt3) by damageboy
 
 ### Performance Improvements in .NET Core
 * [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) by Stephen Toub
