@@ -53,8 +53,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## On-Site Trainings
 
-* [.NET Performance and Debugging Workshop](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=DNWSH&CategoryID=165) by SELA (Israel)
-* [.NET Performance](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=50153&CategoryID=165) by SELA (Israel)
+* [.NET Performance and Debugging Workshop](http://scc.sela.co.il/Syl/Syllabus/Info?courseCode=DNWSH&branchName=165) by SELA (Israel)
+* [.NET Performance](https://scc.sela.co.il/Syl/syllabus/info?coursecode=50153&branchname=165) by SELA (Israel)
 * [Asynchronous Computing and Composing Asynchronous and Event-Based](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=RXTDF&CategoryID=165) by SELA (Israel)
 * [Parallel Programming with the TPL](http://www.sela.co.il/syl/Syllabus.aspx?CourseCode=ParallelWS&CategoryID=165) by SELA (Israel)
 * [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
