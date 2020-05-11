@@ -10,7 +10,6 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 	- [Blogs](#blogs)
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
 	- [Performance tools](#performance-tools)
-	- [High Performance Libraries](#high-performance-libraries)
 	- Article series
 		- [Benchmarking](#benchmarking)
 		- [Monitoring](#monitoring)
@@ -158,27 +157,6 @@ Sorted from newest to oldest:
 * [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter) - Free open-source and cross-platform .Net Standard 2.0 library that is designed for the method’s performance measurement
 ### Application Insights
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
-
-## High Performance Libraries
-* Mathematics
-  * [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers.
-  * [Spreads](https://github.com/Spreads/Spreads) - "Series and Panels for Real-time and Exploratory Analysis of Data Streams", a library for fast time series incremental calculations + SIMD-optimized byte-shuffling/LZ4/Zstd compression using [Blosc](https://github.com/Blosc/c-blosc/) library.
-* CPU Optimization
-  * [SIMD Array](https://github.com/jackmott/SIMDArray) - SIMD and other Performance enhanced Array operations for F#.
-  * [NativeInterop](https://bitbucket.org/frank_niemeyer/nativeinterop) - Generic pointers and native 64-bit arrays for .NET.
-* IO Optimization
-  * [Nessos Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
-  * [Wire](https://github.com/AsynkronIT/Wire) - A high performance polymorphic serializer for the .NET framework.
-  * [Disruptor-Net](https://github.com/disruptor-net/Disruptor-net) - .NET port of LMAX Disruptor, a faster alternative to BlockingCollection.
-  * [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) - Bounded multiple producers multiple consumers queue for .NET.
-* Collections
-  * [ImTools](https://github.com/dadhi/ImTools) - Immutable persistent collections and helpers designed for [performance](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4) and simplicity of use.
-* Parsing and Compiling
-  * [markdig](https://github.com/lunet-io/markdig) - Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
-  * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast [Expression Trees](https://msdn.microsoft.com/en-us/library/mt654263.aspx) compiler to delegate to compensate for slow `Expression.Compile()`.
-* Inversion of Control frameworks
-  * [DryIoc](https://github.com/dadhi/DryIoc) - For the past years a [fastest](http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison) Dependency Injection library without sacrificing on [functionality](http://featuretests.apphb.com/DependencyInjection.html).
-  * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 
 
 ## Article series
