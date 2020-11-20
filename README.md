@@ -192,6 +192,7 @@ Sorted from newest to oldest:
 * [9 posts about how to build your own toolbox with ClrMD](http://labs.criteo.com/2017/12/clrmd-part-9-deciphering-tasks-thread-pool-items/) by Criteo Labs
 * [.NET Threadpool starvation, and how queuing makes it worse](http://labs.criteo.com/2018/10/net-threadpool-starvation-and-how-queuing-makes-it-worse/) by Criteo Labs
 * [Get-process-name challenge on a Friday afternoon](https://medium.com/criteo-labs/get-process-name-challenge-on-a-friday-afternoon-304a93bccdd1) by Christophe Nasarre
+* [How to send emails in C#/.NET using SMTP](https://www.loginradius.com/engineering/blog/how-to-send-emails-through-csharp-dotnet-using-smtp/) by Hemant Manwani
 
 ### Debugging performances series by Tess Ferrandez
 * [All .NET Debugging Demos: Hang, Crash, memory, and CPU ](https://blogs.msdn.microsoft.com/tess/2008/04/03/net-debugging-demos-lab-7-memory-leak-review/)
