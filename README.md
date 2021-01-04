@@ -111,7 +111,7 @@ Sorted from newest to oldest:
 	* [Safe Systems Programming in C# and .NET](https://www.infoq.com/presentations/csharp-systems-programming) by Joe Duffy (2016.08.20, QCon)
 	* [ASP.NET Core Kestrel: Adventures in building a fast web server](https://www.youtube.com/watch?v=kej3YJDMAW4) by Damian Edwards & David Fowler (2016.08.12, NDC)
 	* [Performance and How to Measure It](https://www.infoq.com/presentations/dot-net-performance) by Matt Warren (2016.07.28, ProgSCon)
-	* [Performance Optimizations in the Wild](https://vimeo.com/171927596) by Oren Eini (Ayende) (2016.06.23, NDC)
+	* [Performance Optimizations in the Wild](https://www.youtube.com/watch?v=WuDy3rgGG2Q) by Oren Eini (Ayende) (2016.06.23, NDC)
 	* [The Vector in Your CPU: Exploiting SIMD for Superscalar Performance](https://www.youtube.com/watch?v=WeJ8b3WRSmM) by Sasha Goldshtein (2016.04.19, DotNext)
 	* [Lessons in Extreme .NET Performance](https://www.infoq.com/presentations/bing-net-performance) by Ben Watson (2016.03.13, QCon)
 * Older
