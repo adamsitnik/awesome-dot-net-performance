@@ -69,9 +69,12 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2020
+    * [Running .NET Core performance investigation on Linux](https://www.youtube.com/watch?v=y4-h3qyDpJo) by Adam Sitnik (20.11.2020, DotNext)
     * [What's so hard about pinning?](https://www.youtube.com/watch?v=troNdmHEu2g) by Maoni Stephens, (28.09.2020, Dotnetos Conference) 
     * [The Art of Tracing](https://www.youtube.com/watch?v=ktUDQrgg0-E) by Sebastian Solnica (01.10.2020, Dotnetos Conference) 
     * [Performance Improvements in .NET 5](https://www.youtube.com/watch?v=Ehvr9wXJNEM) by Stephen Toub (02.10.2020, Dotnetos Conference) 
+    * [Beating CoreCLR's own C++ code with CoreCLR 3.0 intrinsics](https://www.youtube.com/watch?v=ug_UC4lxMr8) by Dan Shechter (10.03.2020, DotNext)
+    * [From ETW to EventPipe](https://www.youtube.com/watch?v=Jpoy3O6x-wM) by Christophe Nasarre-Soulier (10.03.2020, DotNext)
 * 2019
     * [What the game industry taught me about performance](https://vimeo.com/372255674) by Brian Rasmussen, (10.11.2019, Øredev)
     * [Compiling and Running a PHP on .NET Core](https://www.youtube.com/watch?v=nb6H84Y5fag) by Jakub Míšek, (11.10.2019, Dotnetos Conference)
@@ -86,6 +89,8 @@ Sorted from newest to oldest:
     * [.NET Performance Investigation](https://www.youtube.com/watch?v=y4HV5m5GR7o) by Adam Sitnik, (10.10.2019, Dotnetos Conference)
     * [Performance in the .NET Runtime](https://www.youtube.com/watch?v=9l8EOQV1Yws) by Matt Warren, (10.10.2019, Dotnetos Conference)
     * [Spanification](https://www.youtube.com/watch?v=THXG5jv0BrU) by Adam Sitnik (09.09.2019, Update Conference Prague)
+    * [Debugging asynchronous scenarios in .NET](https://www.youtube.com/watch?v=8Ans2u4Bsi8) by Kevin Gosse, Christophe Nasarre (16.08.2019, DotNext)
+    * [Building your own profiling and diagnosis tools with Event Tracing for Windows](https://www.youtube.com/watch?v=gBkvAO02qUY) by Pavel Yosifovich (16.08.2019, DotNext)
     * [JIT and AOT in the CLR](https://www.youtube.com/watch?v=PS36qjpPRaY) by Mei-Chin Tsai (30.07.2019, JVM Language Summit)
     * [Powerful benchmarking in .NET](https://www.youtube.com/watch?v=pdcrSG4tOLI) by Adam Sitnik (09.07.2019, Update Conference Prague)
     * [What’s new for performance in .NET Core and ASP.NET Core 3.0](https://www.youtube.com/watch?v=bIfolJJJWqs) by Ben Adams (08.07.2019, .NET Core Summer Event)
