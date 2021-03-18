@@ -122,7 +122,7 @@ Sorted from newest to oldest:
 ## Blogs
 
 * [Maoni Stephens](https://devblogs.microsoft.com/dotnet/author/maoni/)
-* [Stephen Toub](https://devblogs.microsoft.com/dotnet/author/stephen_toubhotmail-com/)
+* [Stephen Toub](https://devblogs.microsoft.com/dotnet/author/toub/)
 * [Matt Warren](http://mattwarren.org)
 * [Andrey Akinshin](http://aakinshin.net)
 * [Dan Shechter](https://bits.houmus.org/)
