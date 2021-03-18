@@ -24,19 +24,19 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 
 ## Books
 
-* [Pro .NET Performance: Optimize Your C# Applications](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow
-* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://prodotnetmemory.com) by Konrad Kokosa
-* [Pro .NET Benchmarking: The Art of Performance Measurement](https://aakinshin.net/prodotnetbenchmarking/) by Andrey Akinshin
-* [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter
-* [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer
-* [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583457) by Ben Watson
-* [Advanced .NET Debugging](https://www.amazon.com/dp/0321578899) by Mario Hewardt
-* [Concurrent Programming on Windows](https://www.amazon.com/dp/032143482X) by Joe Duffy
-* [.NET IL Assembler](https://www.amazon.com/dp/1430267615) by Serge Lidin
-* [High-Performance Windows Store Apps](https://www.amazon.com/dp/0735682631) by Brian Rasmussen
-* [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner
-* [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
-* [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
+* [Pro .NET Performance: Optimize Your C# Applications](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow (2012)
+* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://prodotnetmemory.com) by Konrad Kokosa (2018)
+* [Pro .NET Benchmarking: The Art of Performance Measurement](https://aakinshin.net/prodotnetbenchmarking/) by Andrey Akinshin (2019)
+* [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter (2012)
+* [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer (2013)
+* [Writing High-Performance .NET Code](https://www.amazon.com/dp/0990583457) by Ben Watson (2018)
+* [Advanced .NET Debugging](https://www.amazon.com/dp/0321578899) by Mario Hewardt (2009)
+* [Concurrent Programming on Windows](https://www.amazon.com/dp/032143482X) by Joe Duffy (2008)
+* [.NET IL Assembler](https://www.amazon.com/dp/1430267615) by Serge Lidin (2014)
+* [High-Performance Windows Store Apps](https://www.amazon.com/dp/0735682631) by Brian Rasmussen (2014)
+* [Customizing the Microsoft® .NET Framework Common Language Runtime](https://www.amazon.com/dp/0735619883) by Steven Pratschner (2005)
+* [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison (2011)
+* [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell (2018)
 
 ## Video Courses
 
