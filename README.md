@@ -68,6 +68,10 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Conference talks
 
 Sorted from newest to oldest:
+* 2020
+    * [What's so hard about pinning?](https://www.youtube.com/watch?v=troNdmHEu2g) by Maoni Stephens, (28.09.2020, Dotnetos Conference) 
+    * [The Art of Tracing](https://www.youtube.com/watch?v=ktUDQrgg0-E) by Sebastian Solnica (01.10.2020, Dotnetos Conference) 
+    * [Performance Improvements in .NET 5](https://www.youtube.com/watch?v=Ehvr9wXJNEM) by Stephen Toub (02.10.2020, Dotnetos Conference) 
 * 2019
     * [What the game industry taught me about performance](https://vimeo.com/372255674) by Brian Rasmussen, (10.11.2019, Øredev)
     * [Compiling and Running a PHP on .NET Core](https://www.youtube.com/watch?v=nb6H84Y5fag) by Jakub Míšek, (11.10.2019, Dotnetos Conference)
