@@ -19,8 +19,9 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 		- [Refs](#refs)		
 		- [Threading](#threading)
 		- [Memory](#memory)
-		- [.NET Core 3.0 Intrinsics](#net-core-30-intrinsics)
+		- [.NET CPU Intrinsics](#net-cpu-intrinsics)
 		- [Performance Improvements in .NET Core](#performance-improvements-in-net-core)
+		- [ARM64](#arm64)
 
 ## Books
 
@@ -131,12 +132,14 @@ Sorted from newest to oldest:
 * [Vladimir Sadov](http://mustoverride.com/)
 * [Adam Sitnik](http://adamsitnik.com)
 * [Konrad Kokosa](http://tooslowexception.com/)
+* [Kunal Pathak](https://kunalspathak.github.io/)
 
 ## Inspiring Open Source Contributors
 
 * [Ben Adams](https://github.com/benaadams)
 * [Jan Kotas](https://github.com/jkotas)
 * [Stephen Toub](https://github.com/stephentoub)
+* [Kunal Pathak](https://github.com/kunalspathak)
 * [mikedn](https://github.com/mikedn)
 * [Tanner Gooding](https://github.com/tannergooding)
 * [Vladimir Sadov](https://github.com/VSadov)
@@ -209,6 +212,7 @@ Sorted from newest to oldest:
 * [.NET Memory Leak: To dispose or not to dispose, that’s the 1 GB question](https://blogs.msdn.microsoft.com/tess/2009/02/03/net-memory-leak-to-dispose-or-not-to-dispose-thats-the-1-gb-question/)
 
 ### JIT Optimizations
+* [Loop alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/) by Kunal Pathak
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
 * [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
 * [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
@@ -260,7 +264,8 @@ Sorted from newest to oldest:
 * [Value Types vs Reference Types](https://adamsitnik.com/Value-Types-vs-Reference-Types/) by Adam Sitnik
 * [Span](https://adamsitnik.com/Span/) by Adam Sitnik
 
-### .NET Core 3.0 Intrinsics
+### .NET CPU Intrinsics
+* [Vectorization using .NET APIs](https://kunalspathak.github.io/2020-08-01-Vectorization-APIs/) by Kunal Pathak
 * [Hardware Intrinsics in .NET Core](https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/) by Tanner Gooding
 * [Exploring .NET Core platform intrinsics: Part 1 - Accelerating SHA-256 on ARMv8](https://mijailovic.net/2018/06/06/sha256-armv8/) by Nemanja Mijailovic
 * [Exploring .NET Core platform intrinsics: Part 2 - Accelerating AES encryption on ARMv8](https://mijailovic.net/2018/06/18/aes-armv8/) by Nemanja Mijailovic
@@ -279,4 +284,15 @@ Sorted from newest to oldest:
 * [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) by Stephen Toub
 * [Performance Improvements in .NET Core 2.1](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-2-1/) by Stephen Toub
 * [Performance Improvements in .NET Core](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core/) by Stephen Toub
+
+### ARM64
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 6](https://kunalspathak.github.io/2021-01-17-.NET-Hardware-Intrinsics-Part6/) by Kunal Pathak
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 5](https://kunalspathak.github.io/2020-12-05-.NET-Hardware-Intrinsics-Part5/) by Kunal Pathak
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 4](https://kunalspathak.github.io/2020-10-31-.NET-Hardware-Intrinsics-Part4/) by Kunal Pathak
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 3](https://kunalspathak.github.io/2020-10-03-.NET-Hardware-Intrinsics-Part3/) by Kunal Pathak
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 2](https://kunalspathak.github.io/2020-09-26-.NET-Hardware-Intrinsics-Part2/) by Kunal Pathak
+* [Arm64 Hardware Intrinsics APIs in .NET - Part 1](https://kunalspathak.github.io/2020-09-19-.NET-Hardware-Intrinsics-Part1/) by Kunal Pathak
+* [Peephole optimizations in .NET](https://kunalspathak.github.io/2020-08-08-ARM64-peephole-optimizations/) by Kunal Pathak
+* [Memory barriers in ARM64](https://kunalspathak.github.io/2020-07-25-ARM64-Memory-Barriers/) by Kunal Pathak
+* [ARM64 performance of .Net Core 5](https://kunalspathak.github.io/2020-07-04-Dotnet-Arm64-Performance/) by Kunal Pathak
 
