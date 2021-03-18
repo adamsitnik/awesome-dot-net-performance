@@ -213,7 +213,7 @@ Sorted from newest to oldest:
 
 ### JIT Optimizations
 * [Loop alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/) by Kunal Pathak
-* [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md) by Carol Eidt
+* [RyuJIT Tutorial](https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/ryujit-tutorial.md) by Carol Eidt
 * [JIT Optimizations](http://www.codeproject.com/Articles/25801/JIT-Optimizations) by Sasha Goldshtein
 * [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 1 of N)](http://blogs.microsoft.co.il/sasha/2007/02/27/jit-optimizations-inlining-and-interface-method-dispatching-part-1-of-n/) by Sasha Goldshtein
 * [JIT Optimizations, Inlining, and Interface Method Dispatching (Part 2 of N)](http://blogs.microsoft.co.il/sasha/2007/08/12/jit-optimizations-inlining-and-interface-method-dispatching-part-2-of-n/) by Sasha Goldshtein
