@@ -179,7 +179,11 @@ Sorted from newest to oldest:
 ### Benchmarking
 * [Microbenchmark Design Guidelines](https://github.com/dotnet/performance/blob/master/docs/microbenchmark-design-guidelines.md) by Adam Sitnik
 * [The Art of Benchmarking](http://mattwarren.org/2014/09/19/the-art-of-benchmarking/) by Matt Warren
-* [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren
+* [Adventures in Benchmarking - Memory Allocations](http://mattwarren.org/2016/02/17/adventures-in-benchmarking-memory-allocations/) by Matt Warren 
+* [Micro-Benchmarking Done Wrong, And For The Wrong Reasons](https://web.archive.org/web/20190813030251/http://blogs.microsoft.co.il/sasha/2012/06/22/micro-benchmarking-done-wrong-and-for-the-wrong-reasons/) by Sasha Goldshtein
+* [On ‘stackalloc’ Performance and The Large Object Heap](https://web.archive.org/web/20190908190013/http://blogs.microsoft.co.il/sasha/2013/10/17/on-stackalloc-performance-and-the-large-object-heap/) by Sasha Goldshtein
+* [Micro-Benchmarking Considered Harmful](https://web.archive.org/web/20190818002513/http://blogs.microsoft.co.il/sasha/2009/05/08/micro-benchmarking-considered-harmful/) by Sasha Goldshtein
+* [On Measuring Performance](https://web.archive.org/web/20190814051906/http://blogs.microsoft.co.il/sasha/2007/12/27/on-measuring-performance/) by Sasha Goldshtein
 * [Stopwatch under the hood](http://aakinshin.net/en/blog/dotnet/stopwatch/) by Andrey Akinshin
 * [DateTime under the hood](http://aakinshin.net/en/blog/dotnet/datetime/) by Andrey Akinshin
 * [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
