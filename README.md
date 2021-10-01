@@ -292,7 +292,7 @@ Sorted from newest to oldest:
 ### Performance Improvements in .NET Core
 * [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/) by Stephen Toub
 * [Regex Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/) by Stephen Toub
-* [Performance Improvements in .NET 5.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/) by Stephen Toub
+* [Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-5/) by Stephen Toub
 * [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) by Stephen Toub
 * [Performance Improvements in .NET Core 2.1](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-2-1/) by Stephen Toub
 * [Performance Improvements in .NET Core](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core/) by Stephen Toub
