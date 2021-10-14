@@ -172,7 +172,9 @@ Sorted from newest to oldest:
 ### Application Insights
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
 ### Analyzers
-* [Clr Heap Allocation Analyzer](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer) Clr Heap Allocation Analyzer is a Roslyn based Diagnostic Analyzer that is able to detect most allocations in code in the local method and bring them to your attention in Visual Studio. 
+* [Clr Heap Allocation Analyzer](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer) Clr Heap Allocation Analyzer is a Roslyn based Diagnostic Analyzer that is able to detect most allocations in code in the local method and bring them to your attention in Visual Studio.
+### Load Testing
+* [NBomber](https://github.com/PragmaticFlow/NBomber) A lightweight framework for writing load tests to use on any PULL or PUSH system (HTTP, WebSockets, GraphQl, gRPC, SQL Databse, MongoDb, Redis etc). Dynamic CLI output, report generation, and trend analysis. Written in F# and targeting .NET Core and full .NET Framework.
 
 ## Article series
 
