@@ -50,6 +50,9 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Defrag Tools - Perf View](https://channel9.msdn.com/Search?term=%22Defrag%20Tools%22%20%2B%20%22PerfView%22#ch9Search) by Vance Morrison
 * [High Performance Coding with .NET Core and C#](https://www.udemy.com/high-performance-coding-with-net-core-and-csharp/) by Gergely Kalapos
 * Defrag tools about CLR GC [part 1](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-33-CLR-GC-Part-1) [part 2](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-34-CLR-GC-Part-2) [part 3](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-35-CLR-GC-Part-3) and [part 4](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-36-CLR-GC-Part-4) with Maoni Stephens
+* [.NET Async Expert](https://asyncexpert.com/) by Dotnetos
+* [.NET Memory Expert](https://dotnetmemoryexpert.com/) by Dotnetos
+* [.NET Diagnostics Expert](https://diagnosticsexpert.com/) by Dotnetos
 
 ## On-Site Trainings
 
