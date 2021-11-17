@@ -71,6 +71,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Conference talks
 
 Sorted from newest to oldest:
+* 2021
+    * [Background type preloading and MultiCoreJit in .NET 6](https://www.youtube.com/watch?v=L7_DJSeeUoY) by Gleb Balykov (15.09.2021, Samsung Open Source Conference Russia)
 * 2020
     * [Running .NET Core performance investigation on Linux](https://www.youtube.com/watch?v=y4-h3qyDpJo) by Adam Sitnik (20.11.2020, DotNext)
     * [What's so hard about pinning?](https://www.youtube.com/watch?v=troNdmHEu2g) by Maoni Stephens, (28.09.2020, Dotnetos Conference) 
