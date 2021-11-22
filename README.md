@@ -168,6 +168,7 @@ Sorted from newest to oldest:
 ### Benchmarking
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
+* [CsCheck Faster](https://github.com/AnthonyLloyd/CsCheck#performance-testing) - Random data range, multithreaded, cross-platform/machine, unit testing integrated, relative performance testing.
 ### Profiling
 * [Prefix](http://stackify.com/prefix) - Free lightweight profiler for ASP.NET apps shows everything your code is doing across 30+ common libraries
 * [MiniProfiler](https://miniprofiler.com/dotnet/) - Free profiling tool for .NET applications with Entity Framework and ASP.Net integration (Core supported for both versions)
