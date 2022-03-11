@@ -219,16 +219,17 @@ Sorted from newest to oldest:
 * [In managed code we trust, our recent battles with the .NET Garbage Collector](https://samsaffron.com/archive/2011/10/28/in-managed-code-we-trust-our-recent-battles-with-the-net-garbage-collector) by Sam Saffron
 
 ### Debugging performances series by Tess Ferrandez
-* [All .NET Debugging Demos: Hang, Crash, memory, and CPU ](https://blogs.msdn.microsoft.com/tess/2008/04/03/net-debugging-demos-lab-7-memory-leak-review/)
-* [Reader email: Need help troubleshooting perf/memory issues](https://blogs.msdn.microsoft.com/tess/2010/12/06/reader-email-need-help-troubleshooting-perfmemory-issues/)
-* [Debugging a classic ReaderWriterLock deadlock with SOSex.dll](https://blogs.msdn.microsoft.com/tess/2010/04/27/debugging-a-classic-readerwriterlock-deadlock-with-sosex-dll/)
-* [New commands in SOS for .NET 4.0 Part 1](https://blogs.msdn.microsoft.com/tess/2010/03/01/new-commands-in-sos-for-net-4-0-part-1/)
-* [High CPU in .NET app using a static Generic.Dictionary](https://blogs.msdn.microsoft.com/tess/2009/12/21/high-cpu-in-net-app-using-a-static-generic-dictionary/)
-* [.NET Hang Case study: The danger of locking on strings](https://blogs.msdn.microsoft.com/tess/2009/10/19/net-hang-case-study-the-danger-of-locking-on-strings/)
-* [First step in troubleshooting complex issues: Define and scope your issue properly](https://blogs.msdn.microsoft.com/tess/2009/09/09/first-step-in-troubleshooting-complex-issues-define-and-scope-your-issue-properly/)
-* [Show me the memory: Tool for visualizing virtual memory usage and GC heap usage.](https://blogs.msdn.microsoft.com/tess/2009/04/23/show-me-the-memory-tool-for-visualizing-virtual-memory-usage-and-gc-heap-usage/)
-* [.NET Memory Leak reader email: Are you really “leaking” .net memory](https://blogs.msdn.microsoft.com/tess/2009/02/27/net-memory-leak-reader-email-are-you-really-leaking-net-memory/)
-* [.NET Memory Leak: To dispose or not to dispose, that’s the 1 GB question](https://blogs.msdn.microsoft.com/tess/2009/02/03/net-memory-leak-to-dispose-or-not-to-dispose-thats-the-1-gb-question/)
+
+* [All .NET Debugging Demos: Hang, Crash, memory, and CPU ](https://www.tessferrandez.com/tags/#labs)
+* [Reader email: Need help troubleshooting perf/memory issues](https://www.tessferrandez.com/blog/2010/12/06/reader-email-need-help-troubleshooting-perf-memory-issues.html)
+* [Debugging a classic ReaderWriterLock deadlock with SOSex.dll](https://www.tessferrandez.com/blog/2010/04/27/debugging-a-classic-readerwriterlock-deadlock-with-sosex.html)
+* [New commands in SOS for .NET 4.0 Part 1](https://www.tessferrandez.com/blog/2010/03/01/new-commands-in-sos-for-net40-part1.html)
+* [High CPU in .NET app using a static Generic.Dictionary](https://www.tessferrandez.com/blog/2009/12/21/high-cpu-in-net-app-using-a-static-generic-dictionary.html)
+* [.NET Hang Case study: The danger of locking on strings](https://www.tessferrandez.com/blog/2009/10/19/net-hang-case-study-the-danger-of-locking-on-strings.html)
+* [First step in troubleshooting complex issues: Define and scope your issue properly](https://www.tessferrandez.com/blog/2009/09/09/first-step-in-troubleshooting-complex-issues.html)
+* [Show me the memory: Tool for visualizing virtual memory usage and GC heap usage.](https://www.tessferrandez.com/blog/2009/04/23/show-me-the-memory.html)
+* [.NET Memory Leak reader email: Are you really “leaking” .net memory](https://www.tessferrandez.com/blog/2009/02/27/are-you-really-leaking-net-memory.html)
+* [.NET Memory Leak: To dispose or not to dispose, that’s the 1 GB question](https://www.tessferrandez.com/blog/2009/02/03/net-memory-leak-to-dispose-or-not-to-dispose-thats-the-1gb-question.html)
 
 ### JIT Optimizations
 * [Loop alignment in .NET](https://kunalspathak.github.io/2021-03-15-Loop-Alignment/) by Kunal Pathak
@@ -315,4 +316,3 @@ Sorted from newest to oldest:
 * [Peephole optimizations in .NET](https://kunalspathak.github.io/2020-08-08-ARM64-peephole-optimizations/) by Kunal Pathak
 * [Memory barriers in ARM64](https://kunalspathak.github.io/2020-07-25-ARM64-Memory-Barriers/) by Kunal Pathak
 * [ARM64 performance of .Net Core 5](https://kunalspathak.github.io/2020-07-04-Dotnet-Arm64-Performance/) by Kunal Pathak
-
