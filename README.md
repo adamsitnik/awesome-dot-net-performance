@@ -273,7 +273,7 @@ Sorted from newest to oldest:
 * [GC Perf Infrastructure – Part 1](https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-1/) by Maoni Stephens
 * [GC Perf Infrastructure – Part 0](https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-0/) by Maoni Stephens
 * [The history of the GC configs](https://devblogs.microsoft.com/dotnet/the-history-of-the-gc-configs/) by Maoni Stephens
-* [Finalization implementation details](https://devblogs.microsoft.com/dotnet/finalization-implementation-details/]) by Maoni Stephens
+* [Finalization implementation details](https://devblogs.microsoft.com/dotnet/finalization-implementation-details/) by Maoni Stephens
 * [A portable way to get GC events in process and no admin privilege with 10 lines of code (and ability to dynamically enable/disable events)](https://devblogs.microsoft.com/dotnet/a-portable-way-to-get-gc-events-in-process-and-no-admin-privilege-with-10-lines-of-code-and-ability-to-dynamically-enable-disable-events/) by Maoni Stephens
 * [Making CPU configuration better for GC on machines with > 64 CPUs](https://devblogs.microsoft.com/dotnet/making-cpu-configuration-better-for-gc-on-machines-with-64-cpus/) by Maoni Stephens
 * [Running with Server GC in a Small Container Scenario Part 1 – Hard Limit for the GC Heap](https://devblogs.microsoft.com/dotnet/running-with-server-gc-in-a-small-container-scenario-part-1-hard-limit-for-the-gc-heap/) by Maoni Stephens
