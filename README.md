@@ -39,7 +39,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Under the Hood of .NET Memory Management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison (2011)
 * [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell (2018)
 * [ASP.NET Core Razor Pages in Action](https://www.manning.com/books/asp-net-core-razor-pages-in-action) by Mike Brind (2021)
-* [ASP.NET Core Web API ]((https://www.manning.com/books/asp-net-core-web-api) by Valerio De Sanctis (2022)
+* [ASP.NET Core Web API ](https://www.manning.com/books/asp-net-core-web-api) by Valerio De Sanctis (2022)
+* [.NET in Action, Second Edition ](https://www.manning.com/books/dotnet-in-action-second-edition) by Dustin Metzgar (2022)
 
 ## Video Courses
 
