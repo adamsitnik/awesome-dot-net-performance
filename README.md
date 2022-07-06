@@ -217,6 +217,7 @@ Sorted from newest to oldest:
 * [.NET Threadpool starvation, and how queuing makes it worse](http://labs.criteo.com/2018/10/net-threadpool-starvation-and-how-queuing-makes-it-worse/) by Criteo Labs
 * [Get-process-name challenge on a Friday afternoon](https://medium.com/criteo-labs/get-process-name-challenge-on-a-friday-afternoon-304a93bccdd1) by Christophe Nasarre
 * [In managed code we trust, our recent battles with the .NET Garbage Collector](https://samsaffron.com/archive/2011/10/28/in-managed-code-we-trust-our-recent-battles-with-the-net-garbage-collector) by Sam Saffron
+* [Tuning performance on Azure websites using remote profiling](https://blog.elmah.io/tuning-performance-on-azure-websites-using-remote-profiling/) by Thomas Ardal
 
 ### Debugging performances series by Tess Ferrandez
 
