@@ -195,7 +195,7 @@ Sorted from newest to oldest:
 * [Stopwatch under the hood](http://aakinshin.net/en/blog/dotnet/stopwatch/) by Andrey Akinshin
 * [DateTime under the hood](http://aakinshin.net/en/blog/dotnet/datetime/) by Andrey Akinshin
 * [Benchmarking made easy](http://blogs.msmvps.com/jonskeet/2009/01/26/benchmarking-made-easy/) by Jon Skeet
-* [Simple microbenchmarking in C#](http://www.yoda.arachsys.com/csharp/benchmark.html) by Jon Skeet
+* [Simple microbenchmarking in C#](https://jonskeet.uk/csharp/benchmark.html) by Jon Skeet
 * [Acquiring high-resolution time stamps](https://msdn.microsoft.com/library/windows/desktop/dn553408.aspx)
 * [Performance exercise: Minimum](http://aakinshin.net/en/blog/dotnet/perfex-min/) by Andrey Akinshin
 * [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
