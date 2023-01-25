@@ -271,6 +271,7 @@ Sorted from newest to oldest:
 * [Threading in C#](http://www.albahari.com/threading/) by Joseph Albahari
 
 ### Memory
+* [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc) by Maoni Stephens
 * [GC Perf Infrastructure – Part 1](https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-1/) by Maoni Stephens
 * [GC Perf Infrastructure – Part 0](https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-0/) by Maoni Stephens
 * [The history of the GC configs](https://devblogs.microsoft.com/dotnet/the-history-of-the-gc-configs/) by Maoni Stephens
