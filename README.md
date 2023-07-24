@@ -181,6 +181,7 @@ Sorted from newest to oldest:
 * [Clr Heap Allocation Analyzer](https://marketplace.visualstudio.com/items?itemName=MukulSabharwal.ClrHeapAllocationAnalyzer) Clr Heap Allocation Analyzer is a Roslyn based Diagnostic Analyzer that is able to detect most allocations in code in the local method and bring them to your attention in Visual Studio.
 ### Load Testing
 * [NBomber](https://github.com/PragmaticFlow/NBomber) A lightweight framework for writing load tests to use on any PULL or PUSH system (HTTP, WebSockets, GraphQl, gRPC, SQL Databse, MongoDb, Redis etc). Dynamic CLI output, report generation, and trend analysis. Written in F# and targeting .NET Core and full .NET Framework.
+* [JMeter DLS](https://abstracta.github.io/jmeter-dotnet-dsl/) A simple API for JMeter that enable using you IDE to design and run test using .NET.
 
 ## Article series
 
