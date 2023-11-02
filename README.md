@@ -61,8 +61,8 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [Asynchronous Computing and Composing Asynchronous and Event-Based](https://scc.sela.co.il/Syl/syllabus/info?coursecode=RXTDF&branchname=165) by SELA (Israel)
 * [Parallel Programming with the TPL](https://scc.sela.co.il/Syl/Syllabus/info?coursecode=DNParallel&branchname=165) by SELA (Israel)
 * [Solid Async in .NET](http://www.rocksolidknowledge.com/Courses/SolidAsync) by Rock Solid Knowledge (UK)
-* [Mastering .NET Performance Tuning](http://wintellect.com/software-development-training/courses/mastering-net-performance-tuning) by Wintellect (USA)
-* [Mastering .NET Threading](http://wintellect.com/software-development-training/courses/mastering-dotnet-threading) by Wintellect (USA)
+* [Mastering .NET Performance Tuning](https://training.atmosera.com/course/mastering-net-performance-tuning/) by Wintellect (USA)
+* [Mastering .NET Threading](https://training.atmosera.com/course/mastering-net-threading/) by Wintellect (USA)
 
 ## Upcoming conferences
 * 2021
