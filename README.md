@@ -302,6 +302,7 @@ Sorted from newest to oldest:
 * [Decimating Array.Sort with AVX2 - 3/∞](https://bits.houmus.org/2020-01-30/this-goes-to-eleven-pt3) by damageboy
 
 ### Performance Improvements in .NET Core
+* [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/) by Stephen Toub
 * [Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/) by Stephen Toub
 * [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/) by Stephen Toub
 * [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/) by Stephen Toub
