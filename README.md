@@ -202,6 +202,7 @@ Sorted from newest to oldest:
 * [Performance exercise: Division](http://aakinshin.net/en/blog/dotnet/perfex-div/) by Andrey Akinshin
 * [Measuring Performance Improvements in .NET Core with BenchmarkDotNet (Part 1)](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/) by Andrey Akinshin
 * [AWS Lambda — Container Image .NET Benchmark](https://blog.kloia.com/aws-lambda-container-image-net-benchmark-cb39fd0d211f) by İren Saltalı
+* [FastestWaysInCSharp](https://github.com/adamradocz/FastestWaysInCSharp) - Curated methods to how to do things the fastest way in C#.
 
 ### Monitoring
 * [Performance Counters Hell](http://labs.criteo.com/2018/04/performance-counters-hell/) by Criteo Labs
