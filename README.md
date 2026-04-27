@@ -26,7 +26,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Books
 
 * [Pro .NET Performance: Optimize Your C# Applications](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow (2012)
-* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://prodotnetmemory.com) by Konrad Kokosa (2018)
+* [Pro .NET Memory Management: For Better Code, Performance, and Scalability (2nd edition)](https://prodotnetmemory.com) by Konrad Kokosa, Christophe Nasarre, Kevin Gosse (2024)
 * [Pro .NET Benchmarking: The Art of Performance Measurement](https://aakinshin.net/prodotnetbenchmarking/) by Andrey Akinshin (2019)
 * [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter (2012)
 * [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer (2013)
