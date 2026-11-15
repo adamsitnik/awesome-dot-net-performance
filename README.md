@@ -179,6 +179,7 @@ Sorted from newest to oldest:
 * [MiniProfiler](https://miniprofiler.com/dotnet/) - Free profiling tool for .NET applications with Entity Framework and ASP.Net integration (Core supported for both versions)
 * [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter) - Free open-source and cross-platform .Net Standard 2.0 library that is designed for the method’s performance measurement
 * [codetrack](https://www.getcodetrack.com/) - Free .NET performance profiler and execution analyzer
+* [profiler-md](https://github.com/TomerAberbach/profiler-md) - Converts performance profiles to human and LLM friendly Markdown.
 ### Application Insights
 * [App Metrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the docs for [more](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) details. 
 ### Analyzers
